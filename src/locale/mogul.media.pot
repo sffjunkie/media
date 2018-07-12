@@ -1,0 +1,5102 @@
+# Translations template for mogul.media.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the mogul.media
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mogul.media 0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-09-24 13:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: src/mogul/media/asf.py:312
+msgid "File is not a valid ASF file."
+msgstr ""
+
+#: src/mogul/media/asf.py:406
+#, python-format
+msgid "Unknown stream type %s found"
+msgstr ""
+
+#: src/mogul/media/attachment.py:27 src/mogul/media/id3_info.py:37
+#: src/mogul/media/id3_info.py:176
+msgid "Other"
+msgstr ""
+
+#: src/mogul/media/attachment.py:28
+msgid "32x32 pixels 'file icon' (PNG only)"
+msgstr ""
+
+#: src/mogul/media/attachment.py:29 src/mogul/media/id3_info.py:178
+msgid "Other file icon"
+msgstr ""
+
+#: src/mogul/media/attachment.py:30 src/mogul/media/id3_info.py:179
+msgid "Cover (front)"
+msgstr ""
+
+#: src/mogul/media/attachment.py:31 src/mogul/media/id3_info.py:180
+msgid "Cover (back)"
+msgstr ""
+
+#: src/mogul/media/attachment.py:32 src/mogul/media/id3_info.py:181
+msgid "Leaflet page"
+msgstr ""
+
+#: src/mogul/media/attachment.py:33 src/mogul/media/id3_info.py:182
+msgid "Media (e.g. label side of CD)"
+msgstr ""
+
+#: src/mogul/media/attachment.py:34 src/mogul/media/id3_info.py:183
+msgid "Lead artist/lead performer/soloist"
+msgstr ""
+
+#: src/mogul/media/attachment.py:35 src/mogul/media/id3_info.py:184
+msgid "Artist/performer"
+msgstr ""
+
+#: src/mogul/media/attachment.py:36 src/mogul/media/id3_info.py:185
+msgid "Conductor"
+msgstr ""
+
+#: src/mogul/media/attachment.py:37 src/mogul/media/id3_info.py:186
+msgid "Band/Orchestra"
+msgstr ""
+
+#: src/mogul/media/attachment.py:38 src/mogul/media/id3.py:109
+#: src/mogul/media/id3_info.py:187
+msgid "Composer"
+msgstr ""
+
+#: src/mogul/media/attachment.py:39 src/mogul/media/id3_info.py:188
+msgid "Lyricist/text writer"
+msgstr ""
+
+#: src/mogul/media/attachment.py:40 src/mogul/media/id3_info.py:189
+msgid "Recording Location"
+msgstr ""
+
+#: src/mogul/media/attachment.py:41 src/mogul/media/id3_info.py:190
+msgid "During recording"
+msgstr ""
+
+#: src/mogul/media/attachment.py:42 src/mogul/media/id3_info.py:191
+msgid "During performance"
+msgstr ""
+
+#: src/mogul/media/attachment.py:43 src/mogul/media/id3_info.py:192
+msgid "Movie/video screen capture"
+msgstr ""
+
+#: src/mogul/media/attachment.py:44 src/mogul/media/id3_info.py:193
+msgid "A bright coloured fish"
+msgstr ""
+
+#: src/mogul/media/attachment.py:45 src/mogul/media/id3_info.py:194
+msgid "Illustration"
+msgstr ""
+
+#: src/mogul/media/attachment.py:46 src/mogul/media/id3_info.py:195
+msgid "Band/artist logotype"
+msgstr ""
+
+#: src/mogul/media/attachment.py:47 src/mogul/media/id3_info.py:196
+msgid "Publisher/Studio logotype"
+msgstr ""
+
+#: src/mogul/media/ebml.py:108 src/mogul/media/png.py:96
+msgid "Header"
+msgstr ""
+
+#: src/mogul/media/ebml.py:110
+msgid "Void"
+msgstr ""
+
+#: src/mogul/media/ebml.py:112
+msgid "CRC-32"
+msgstr ""
+
+#: src/mogul/media/ebml.py:114
+msgid "Doctype"
+msgstr ""
+
+#: src/mogul/media/ebml.py:116
+msgid "Version"
+msgstr ""
+
+#: src/mogul/media/ebml.py:118
+msgid "Read Version"
+msgstr ""
+
+#: src/mogul/media/ebml.py:120
+msgid "Max ID Length"
+msgstr ""
+
+#: src/mogul/media/ebml.py:122
+msgid "Max Size Length"
+msgstr ""
+
+#: src/mogul/media/ebml.py:124
+msgid "Doctype Version"
+msgstr ""
+
+#: src/mogul/media/ebml.py:126
+msgid "Doctype Read Version"
+msgstr ""
+
+#: src/mogul/media/ebml.py:129
+msgid "Segment"
+msgstr ""
+
+#: src/mogul/media/ebml.py:131
+msgid "Timecode Scale"
+msgstr ""
+
+#: src/mogul/media/ebml.py:133
+msgid "Muxing Application"
+msgstr ""
+
+#: src/mogul/media/ebml.py:135
+msgid "Writing Application"
+msgstr ""
+
+#: src/mogul/media/ebml.py:137
+msgid "Duration"
+msgstr ""
+
+#: src/mogul/media/ebml.py:139
+msgid "Date UTC"
+msgstr ""
+
+#: src/mogul/media/ebml.py:142
+msgid "Segment UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:144
+msgid "Seek Head"
+msgstr ""
+
+#: src/mogul/media/ebml.py:146
+msgid "Seek"
+msgstr ""
+
+#: src/mogul/media/ebml.py:148
+msgid "Seek ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:150
+msgid "Seek Position"
+msgstr ""
+
+#: src/mogul/media/ebml.py:152
+msgid "Info"
+msgstr ""
+
+#: src/mogul/media/ebml.py:155
+msgid "Cluster"
+msgstr ""
+
+#: src/mogul/media/ebml.py:157
+msgid "Timecode"
+msgstr ""
+
+#: src/mogul/media/ebml.py:159
+msgid "Silent Tracks"
+msgstr ""
+
+#: src/mogul/media/ebml.py:161
+msgid "Position"
+msgstr ""
+
+#: src/mogul/media/ebml.py:163
+msgid "Previous Size"
+msgstr ""
+
+#: src/mogul/media/ebml.py:165
+msgid "Simple Block"
+msgstr ""
+
+#: src/mogul/media/ebml.py:167
+msgid "Block Group"
+msgstr ""
+
+#: src/mogul/media/ebml.py:169
+msgid "Block"
+msgstr ""
+
+#: src/mogul/media/ebml.py:171
+msgid "Block Virtual"
+msgstr ""
+
+#: src/mogul/media/ebml.py:173
+msgid "Block Additions"
+msgstr ""
+
+#: src/mogul/media/ebml.py:175
+msgid "Block More"
+msgstr ""
+
+#: src/mogul/media/ebml.py:177
+msgid "Block Add ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:179
+msgid "Block Additional"
+msgstr ""
+
+#: src/mogul/media/ebml.py:181
+msgid "Block Duration"
+msgstr ""
+
+#: src/mogul/media/ebml.py:183
+msgid "Reference Priority"
+msgstr ""
+
+#: src/mogul/media/ebml.py:185
+msgid "Reference Block"
+msgstr ""
+
+#: src/mogul/media/ebml.py:187
+msgid "Reference Virtual"
+msgstr ""
+
+#: src/mogul/media/ebml.py:189
+msgid "Codec State"
+msgstr ""
+
+#: src/mogul/media/ebml.py:191 src/mogul/media/psd.py:92
+msgid "Slices"
+msgstr ""
+
+#: src/mogul/media/ebml.py:193
+msgid "Time Slice"
+msgstr ""
+
+#: src/mogul/media/ebml.py:195
+msgid "Lace Number"
+msgstr ""
+
+#: src/mogul/media/ebml.py:197
+msgid "Frame Number"
+msgstr ""
+
+#: src/mogul/media/ebml.py:199
+msgid "Block Addition ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:201
+msgid "Delay"
+msgstr ""
+
+#: src/mogul/media/ebml.py:203
+msgid "Slice Duration"
+msgstr ""
+
+#: src/mogul/media/ebml.py:205
+msgid "Reference Frame"
+msgstr ""
+
+#: src/mogul/media/ebml.py:207
+msgid "Reference Offset"
+msgstr ""
+
+#: src/mogul/media/ebml.py:209
+msgid "Reference Timecode"
+msgstr ""
+
+#: src/mogul/media/ebml.py:211
+msgid "Encrypted Block"
+msgstr ""
+
+#: src/mogul/media/ebml.py:214
+msgid "Tracks"
+msgstr ""
+
+#: src/mogul/media/ebml.py:216
+msgid "Track Entry"
+msgstr ""
+
+#: src/mogul/media/ebml.py:218
+msgid "Track Number"
+msgstr ""
+
+#: src/mogul/media/ebml.py:220
+msgid "Track UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:222
+msgid "Track Type"
+msgstr ""
+
+#: src/mogul/media/ebml.py:224
+msgid "Flag Enabled"
+msgstr ""
+
+#: src/mogul/media/ebml.py:226
+msgid "Flag Default"
+msgstr ""
+
+#: src/mogul/media/ebml.py:228
+msgid "Flag Forced"
+msgstr ""
+
+#: src/mogul/media/ebml.py:230
+msgid "Flag Lacing"
+msgstr ""
+
+#: src/mogul/media/ebml.py:232
+msgid "Min Cache"
+msgstr ""
+
+#: src/mogul/media/ebml.py:234
+msgid "Max Cache"
+msgstr ""
+
+#: src/mogul/media/ebml.py:236
+msgid "Default Duration"
+msgstr ""
+
+#: src/mogul/media/ebml.py:238
+msgid "Track Timecode Scale"
+msgstr ""
+
+#: src/mogul/media/ebml.py:240
+msgid "Max Block Addition ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:242
+msgid "Track Name"
+msgstr ""
+
+#: src/mogul/media/ebml.py:244
+msgid "Track Language"
+msgstr ""
+
+#: src/mogul/media/ebml.py:246
+msgid "Codec ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:248
+msgid "Codec Private"
+msgstr ""
+
+#: src/mogul/media/ebml.py:250
+msgid "Codec Name"
+msgstr ""
+
+#: src/mogul/media/ebml.py:252
+msgid "Attachment Link"
+msgstr ""
+
+#: src/mogul/media/ebml.py:254
+msgid "Codec Decode All"
+msgstr ""
+
+#: src/mogul/media/ebml.py:256
+msgid "Track Overlay"
+msgstr ""
+
+#: src/mogul/media/ebml.py:258
+msgid "Track Translate"
+msgstr ""
+
+#: src/mogul/media/ebml.py:260
+msgid "Track Translate Edition UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:262
+msgid "Track Translate Codec"
+msgstr ""
+
+#: src/mogul/media/ebml.py:264
+msgid "Track Translate Track ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:266
+msgid "Video"
+msgstr ""
+
+#: src/mogul/media/ebml.py:268
+msgid "Flag Interlace"
+msgstr ""
+
+#: src/mogul/media/ebml.py:270
+msgid "Stereo Mode"
+msgstr ""
+
+#: src/mogul/media/ebml.py:272
+msgid "Pixel Width"
+msgstr ""
+
+#: src/mogul/media/ebml.py:274
+msgid "Pixel Height"
+msgstr ""
+
+#: src/mogul/media/ebml.py:276
+msgid "Pixel Crop Bottom"
+msgstr ""
+
+#: src/mogul/media/ebml.py:278
+msgid "Pixel Crop Top"
+msgstr ""
+
+#: src/mogul/media/ebml.py:280
+msgid "Pixel Crop Left"
+msgstr ""
+
+#: src/mogul/media/ebml.py:282
+msgid "Pixel Crop Right"
+msgstr ""
+
+#: src/mogul/media/ebml.py:283
+msgid "Display Width"
+msgstr ""
+
+#: src/mogul/media/ebml.py:284
+msgid "Display Height"
+msgstr ""
+
+#: src/mogul/media/ebml.py:285
+msgid "Display Unit"
+msgstr ""
+
+#: src/mogul/media/ebml.py:286
+msgid "Aspect Ratio"
+msgstr ""
+
+#: src/mogul/media/ebml.py:287
+msgid "Colour Space"
+msgstr ""
+
+#: src/mogul/media/ebml.py:288
+msgid "Gamma"
+msgstr ""
+
+#: src/mogul/media/ebml.py:289
+msgid "Frame Rate"
+msgstr ""
+
+#: src/mogul/media/ebml.py:290
+msgid "Audio"
+msgstr ""
+
+#: src/mogul/media/ebml.py:291
+msgid "Sampling Frequency"
+msgstr ""
+
+#: src/mogul/media/ebml.py:292
+msgid "Output Sampling Frequency"
+msgstr ""
+
+#: src/mogul/media/ebml.py:293
+msgid "Channels"
+msgstr ""
+
+#: src/mogul/media/ebml.py:294
+msgid "Channel Positions"
+msgstr ""
+
+#: src/mogul/media/ebml.py:295
+msgid "Bit Depth"
+msgstr ""
+
+#: src/mogul/media/ebml.py:296
+msgid "Track Operation"
+msgstr ""
+
+#: src/mogul/media/ebml.py:297
+msgid "Track Combine Planes"
+msgstr ""
+
+#: src/mogul/media/ebml.py:298
+msgid "Track Plane"
+msgstr ""
+
+#: src/mogul/media/ebml.py:299
+msgid "Track Plane UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:300
+msgid "Track Plane Type"
+msgstr ""
+
+#: src/mogul/media/ebml.py:301
+msgid "Track Join Blocks"
+msgstr ""
+
+#: src/mogul/media/ebml.py:302
+msgid "Track Join UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:303
+msgid "Content Encodings"
+msgstr ""
+
+#: src/mogul/media/ebml.py:304
+msgid "Content Encoding"
+msgstr ""
+
+#: src/mogul/media/ebml.py:305
+msgid "Content Encoding Order"
+msgstr ""
+
+#: src/mogul/media/ebml.py:306
+msgid "Content Encoding Scope"
+msgstr ""
+
+#: src/mogul/media/ebml.py:307
+msgid "Content Encoding Type"
+msgstr ""
+
+#: src/mogul/media/ebml.py:308
+msgid "Content Compression"
+msgstr ""
+
+#: src/mogul/media/ebml.py:309
+msgid "Content Compression Algorithm"
+msgstr ""
+
+#: src/mogul/media/ebml.py:310
+msgid "Content Compression Settings"
+msgstr ""
+
+#: src/mogul/media/ebml.py:311
+msgid "Content Encryption"
+msgstr ""
+
+#: src/mogul/media/ebml.py:312
+msgid "Content Encryption Algorithm"
+msgstr ""
+
+#: src/mogul/media/ebml.py:313
+msgid "Content Encryption Key ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:314
+msgid "Content Signature"
+msgstr ""
+
+#: src/mogul/media/ebml.py:315
+msgid "Content Signature Key ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:316
+msgid "Content Signature Algorithm"
+msgstr ""
+
+#: src/mogul/media/ebml.py:317
+msgid "Content Signature Hash Algorithm"
+msgstr ""
+
+#: src/mogul/media/ebml.py:318
+msgid "Cues"
+msgstr ""
+
+#: src/mogul/media/ebml.py:319
+msgid "Cue Point"
+msgstr ""
+
+#: src/mogul/media/ebml.py:320
+msgid "Cue Time"
+msgstr ""
+
+#: src/mogul/media/ebml.py:321
+msgid "Cue Track Positions"
+msgstr ""
+
+#: src/mogul/media/ebml.py:322
+msgid "Cue Track"
+msgstr ""
+
+#: src/mogul/media/ebml.py:323
+msgid "Cue Cluster Position"
+msgstr ""
+
+#: src/mogul/media/ebml.py:324
+msgid "Cue Block Number"
+msgstr ""
+
+#: src/mogul/media/ebml.py:325
+msgid "Cue Codec State"
+msgstr ""
+
+#: src/mogul/media/ebml.py:326
+msgid "Cue Reference"
+msgstr ""
+
+#: src/mogul/media/ebml.py:327
+msgid "Cue Reference Time"
+msgstr ""
+
+#: src/mogul/media/ebml.py:328
+msgid "Cue Reference Cluster"
+msgstr ""
+
+#: src/mogul/media/ebml.py:329
+msgid "Cue Reference Number"
+msgstr ""
+
+#: src/mogul/media/ebml.py:330
+msgid "Cue Reference Codec State"
+msgstr ""
+
+#: src/mogul/media/ebml.py:331
+msgid "Attachments"
+msgstr ""
+
+#: src/mogul/media/ebml.py:332
+msgid "Attached File"
+msgstr ""
+
+#: src/mogul/media/ebml.py:333
+msgid "File Description"
+msgstr ""
+
+#: src/mogul/media/ebml.py:334
+msgid "File Name"
+msgstr ""
+
+#: src/mogul/media/ebml.py:335
+msgid "File Mime Type"
+msgstr ""
+
+#: src/mogul/media/ebml.py:336
+msgid "File Data"
+msgstr ""
+
+#: src/mogul/media/ebml.py:337
+msgid "File UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:338
+msgid "File Referral"
+msgstr ""
+
+#: src/mogul/media/ebml.py:339
+msgid "File Used Start Time"
+msgstr ""
+
+#: src/mogul/media/ebml.py:340
+msgid "File Used End Time"
+msgstr ""
+
+#: src/mogul/media/ebml.py:341
+msgid "Chapters"
+msgstr ""
+
+#: src/mogul/media/ebml.py:342
+msgid "Edition Entry"
+msgstr ""
+
+#: src/mogul/media/ebml.py:343
+msgid "Edition UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:344
+msgid "Edition Flag Hidden"
+msgstr ""
+
+#: src/mogul/media/ebml.py:345
+msgid "Edition Flag Default"
+msgstr ""
+
+#: src/mogul/media/ebml.py:346
+msgid "Edition Flag Ordered"
+msgstr ""
+
+#: src/mogul/media/ebml.py:347
+msgid "Chapter"
+msgstr ""
+
+#: src/mogul/media/ebml.py:348
+msgid "Chapter UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:349
+msgid "Chapter Time Start"
+msgstr ""
+
+#: src/mogul/media/ebml.py:350
+msgid "Chapter Time End"
+msgstr ""
+
+#: src/mogul/media/ebml.py:351
+msgid "Chapter Flag Hidden"
+msgstr ""
+
+#: src/mogul/media/ebml.py:352
+msgid "Chapter Flag Enabled"
+msgstr ""
+
+#: src/mogul/media/ebml.py:353
+msgid "Chapter Segment UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:354
+msgid "Chapter Segment Edition UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:355
+msgid "Chapter Physical Equivalent"
+msgstr ""
+
+#: src/mogul/media/ebml.py:356
+msgid "Chapter Track"
+msgstr ""
+
+#: src/mogul/media/ebml.py:357
+msgid "Chapter Track Number"
+msgstr ""
+
+#: src/mogul/media/ebml.py:358
+msgid "Chapter Display"
+msgstr ""
+
+#: src/mogul/media/ebml.py:359
+msgid "Chapter String"
+msgstr ""
+
+#: src/mogul/media/ebml.py:360
+msgid "Chapter Language"
+msgstr ""
+
+#: src/mogul/media/ebml.py:361
+msgid "Chapter Country"
+msgstr ""
+
+#: src/mogul/media/ebml.py:362
+msgid "Chapter Process"
+msgstr ""
+
+#: src/mogul/media/ebml.py:363
+msgid "Chapter Process Codec ID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:364
+msgid "Chapter Process Private"
+msgstr ""
+
+#: src/mogul/media/ebml.py:365
+msgid "Chapter Process Command"
+msgstr ""
+
+#: src/mogul/media/ebml.py:366
+msgid "Chapter Process Time"
+msgstr ""
+
+#: src/mogul/media/ebml.py:367
+msgid "Chapter Process Data"
+msgstr ""
+
+#: src/mogul/media/ebml.py:368
+msgid "Tags"
+msgstr ""
+
+#: src/mogul/media/ebml.py:369
+msgid "Tag"
+msgstr ""
+
+#: src/mogul/media/ebml.py:370
+msgid "Targets"
+msgstr ""
+
+#: src/mogul/media/ebml.py:371
+msgid "Target Type Value"
+msgstr ""
+
+#: src/mogul/media/ebml.py:372
+msgid "Target Type"
+msgstr ""
+
+#: src/mogul/media/ebml.py:373
+msgid "Tag Track UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:374
+msgid "Tag Edition UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:375
+msgid "Tag Chapter UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:376
+msgid "Tag Attachment UID"
+msgstr ""
+
+#: src/mogul/media/ebml.py:377
+msgid "Simple Tag"
+msgstr ""
+
+#: src/mogul/media/ebml.py:378
+msgid "Tag Name"
+msgstr ""
+
+#: src/mogul/media/ebml.py:379
+msgid "Tag Language"
+msgstr ""
+
+#: src/mogul/media/ebml.py:380
+msgid "Tag Default"
+msgstr ""
+
+#: src/mogul/media/ebml.py:381
+msgid "Tag String"
+msgstr ""
+
+#: src/mogul/media/ebml.py:382
+msgid "Tag Binary"
+msgstr ""
+
+#: src/mogul/media/flac.py:66
+msgid "Stream Info"
+msgstr ""
+
+#: src/mogul/media/flac.py:67
+msgid "Padding"
+msgstr ""
+
+#: src/mogul/media/flac.py:68
+msgid "Application"
+msgstr ""
+
+#: src/mogul/media/flac.py:69
+msgid "Seek Table"
+msgstr ""
+
+#: src/mogul/media/flac.py:70
+msgid "Vorbis Comment"
+msgstr ""
+
+#: src/mogul/media/flac.py:71
+msgid "Cue Sheet"
+msgstr ""
+
+#: src/mogul/media/flac.py:72
+msgid "Picture"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:23 src/mogul/media/fourcc.py:24
+msgid "3ivx"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:25
+msgid "Quicktime RLE codec RGB Planar Format"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:26
+msgid "Autodesk Animator Studio"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:27
+msgid "Kensington?"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:28
+msgid "Loronix WaveCodec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:29 src/mogul/media/fourcc.py:44
+msgid "Avid M-JPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:30
+msgid "Array VideoONE MPEG1-I Capture"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:31
+msgid "Autodesk Animator FLC"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:32
+msgid "Autodesk Animator FLI"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:33
+msgid "22fps JPEG based codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:34
+msgid "Array VideoONE MPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:35
+msgid "Intel?"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:36
+msgid "AngelPotion Definitive"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:37
+msgid "Alparysoft Lossless"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:38
+msgid "Asus Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:39
+msgid "Asus Video 2"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:40
+msgid "Asus Video 2.0"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:41
+msgid "Aura 2 YUV 422"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:42
+msgid "Aura 2 YUV 411"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:43
+msgid "H.264"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:45 src/mogul/media/fourcc.py:51
+msgid "Raw 8 bit RGB Bayer"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:46
+msgid "Bink Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:47
+msgid "Blizzard MPEG 4"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:48
+msgid "Prosumer Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:49
+msgid "Composite Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:50
+msgid "Broadway MPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:52
+msgid "Raw 16 bit RGB Bayer"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:53
+msgid "YUV12 Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:54
+msgid "Canopus DV Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:55
+msgid "DPS Perception"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:56
+msgid "Camcorder Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:57
+msgid "Caviara Champagne"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:58
+msgid "WebCam JPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:59
+msgid "Uncompressed CMYK"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:60
+msgid "YUV 4;2:0"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:61 src/mogul/media/fourcc.py:222
+msgid "Microsoft Video 1"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:62
+msgid "CamStudio Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:63
+msgid "Citrix Scaleable Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:64
+msgid "Cinepak"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:65
+msgid "Color WLT DIB"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:66
+msgid "Conexant YUV 4:1:1"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:67
+msgid "Conexant YUV 4:2:2"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:68
+msgid "Creative YUV"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:69 src/mogul/media/fourcc.py:195
+msgid "H.261"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:70 src/mogul/media/fourcc.py:196
+msgid "H.263"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:71
+msgid "MPEG-4/H.264"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:72
+msgid "Data Connection Conferencing Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:73
+msgid "Data Connection Multimedia Conferencing Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:74
+msgid "Data Connection Enhanced Conferencing Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:75
+msgid "Data Connection Extended Conferencing Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:76
+msgid "Data Connection Media Conferencing Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:77 src/mogul/media/fourcc.py:78
+#: src/mogul/media/fourcc.py:79
+msgid "DivX MPEG-4"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:80 src/mogul/media/fourcc.py:81
+msgid "DivX"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:82 src/mogul/media/fourcc.py:197
+#: src/mogul/media/fourcc.py:198 src/mogul/media/fourcc.py:209
+#: src/mogul/media/fourcc.py:210 src/mogul/media/fourcc.py:214
+#: src/mogul/media/fourcc.py:215 src/mogul/media/fourcc.py:217
+msgid "MPEG-4"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:83
+msgid "Rainbow Runner"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:84
+msgid "Paradigm M-JPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:85 src/mogul/media/fourcc.py:90
+#: src/mogul/media/fourcc.py:102 src/mogul/media/fourcc.py:106
+#: src/mogul/media/fourcc.py:150 src/mogul/media/fourcc.py:172
+#: src/mogul/media/fourcc.py:176 src/mogul/media/fourcc.py:179
+#: src/mogul/media/fourcc.py:219
+msgid "?"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:86
+msgid "DV Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:87
+msgid "TrueMotion S"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:88
+msgid "DVCPRO"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:89
+msgid "DVCPRO50"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:91 src/mogul/media/fourcc.py:96
+msgid "DV Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:92
+msgid "DVE-2 Video Conferencing Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:93
+msgid "SMPTE 370M"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:94
+msgid "50Mbps Consumer DV"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:95
+msgid "25Mbps Consumer DV"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:97
+msgid "12.5Mbps Consumer DV"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:98
+msgid "DVX1000SP Video Decoder"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:99
+msgid "DVX2000SP Video Decoder"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:100
+msgid "DVX3000SP Video Decoder"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:101
+msgid "DivX MPEG-4 version 5"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:103
+msgid "DirectX Texture Compression"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:104
+msgid "DirectX Compressed Texture"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:105
+msgid "Elsa Quick Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:107
+msgid "Etymonix MPEG-2 Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:108
+msgid "Eyestream 7 Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:109
+msgid "Escape"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:110 src/mogul/media/fourcc.py:111
+#: src/mogul/media/fourcc.py:112
+msgid "eTreppid Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:113
+msgid "FFMPEG Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:114
+msgid "Field Encoded Motion JPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:115
+msgid "FFMpeg"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:116
+msgid "FM Screen Capture Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:117
+msgid "Fraps Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:118
+msgid "Forward Motion JPEG with alpha channel"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:119
+msgid "Forward Motion JPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:120
+msgid "Fractal Video Frame"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:121
+msgid "GEOMPEG4"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:122
+msgid "GT891x Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:123
+msgid "Motion LZW"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:124 src/mogul/media/fourcc.py:204
+msgid "Motion JPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:125
+msgid "Greyscale WLT DIB"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:126
+msgid "ITU H.260"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:127
+msgid "ITU H.261"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:128
+msgid "ITU H.262"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:129 src/mogul/media/fourcc.py:140
+msgid "ITU H.263"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:130
+msgid "ITU H.264"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:131
+msgid "ITU H.265"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:132
+msgid "ITU H.266"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:133
+msgid "ITU H.267"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:134
+msgid "ITU H.268"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:135
+msgid "ITU H.269"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:136
+msgid "Raw YUV 4:2:2"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:137
+msgid "Huffman Lossless Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:138 src/mogul/media/fourcc.py:139
+msgid "Rendition Motion Compensation Format"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:141
+msgid "Indeo 4 Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:142
+msgid "CellB Video Conferencing Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:143
+msgid "PowerDVD"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:144
+msgid "Intergraph JPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:145
+msgid "Layered Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:146
+msgid "ITU H.263+ Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:147
+msgid "Giga AVI DV Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:148
+msgid "Indeo 2.1"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:149
+msgid "Intel Uncompressed UYUV"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:151 src/mogul/media/fourcc.py:152
+#: src/mogul/media/fourcc.py:154 src/mogul/media/fourcc.py:155
+#: src/mogul/media/fourcc.py:156 src/mogul/media/fourcc.py:157
+#: src/mogul/media/fourcc.py:158 src/mogul/media/fourcc.py:159
+#: src/mogul/media/fourcc.py:160
+msgid "Indeo 3"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:153
+msgid "Indeo 3.2"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:161 src/mogul/media/fourcc.py:162
+#: src/mogul/media/fourcc.py:163 src/mogul/media/fourcc.py:164
+#: src/mogul/media/fourcc.py:165 src/mogul/media/fourcc.py:166
+#: src/mogul/media/fourcc.py:167 src/mogul/media/fourcc.py:168
+#: src/mogul/media/fourcc.py:169 src/mogul/media/fourcc.py:170
+#: src/mogul/media/fourcc.py:171
+msgid "Indeo Interactive"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:173 src/mogul/media/fourcc.py:174
+msgid "JPEG Still Image"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:175
+msgid "JPEG Light"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:177
+msgid "LEAD H.261"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:178
+msgid "LEAD H.263"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:180
+msgid "LEAD MCMW Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:181
+msgid "LEAD MJPEG2000"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:182
+msgid "LEAD Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:183
+msgid "Greyscale Image"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:184
+msgid "LEAD JPEG 4:1:1"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:185
+msgid "LEAD JPEG 4:2:2"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:186
+msgid "LEAD MJPEG 2000"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:187
+msgid "LEAD JPEG 4:4:4"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:188
+msgid "LEAD MJPEG Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:189
+msgid "LEAD MPEG-2 Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:190
+msgid "LEAD MPEG-4 Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:191 src/mogul/media/fourcc.py:192
+#: src/mogul/media/fourcc.py:193
+msgid "Lightning Strike Video Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:194
+msgid "Lempel-Ziv-Oberhumer Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:199
+msgid "MPEG-4 (Automatic WMP download)"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:200 src/mogul/media/fourcc.py:201
+msgid "Motion Compensation Format"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:202
+msgid "Motion JPEG 2000"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:203
+msgid "Motion JPEG Including Huffman Tables"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:205
+msgid "MPEG-2 ES"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:206
+msgid "MPEG-2 Audio"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:207
+msgid "MPEG-2 Transport Stream"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:208
+msgid "MPEG-2 Video"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:211
+msgid "MPEG-4 Audio"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:212
+msgid "MPEG-4 (Sharp Digital Camera)"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:213
+msgid "MPEG-4 Transport Stream"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:216
+msgid "MPEG?"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:218
+msgid "MPEG"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:220
+msgid "Mrcodec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:221
+msgid "microsoft RLE"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:223
+msgid "AVImszh"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:224 src/mogul/media/fourcc.py:225
+#: src/mogul/media/fourcc.py:226 src/mogul/media/fourcc.py:227
+#: src/mogul/media/fourcc.py:228 src/mogul/media/fourcc.py:229
+#: src/mogul/media/fourcc.py:230 src/mogul/media/fourcc.py:231
+#: src/mogul/media/fourcc.py:232
+msgid "Matrox?"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:233
+msgid "Motion Pixels MVI1 Codec"
+msgstr ""
+
+#: src/mogul/media/fourcc.py:234
+msgid "Motion Pixels MVI2 Codec"
+msgstr ""
+
+#: src/mogul/media/id3.py:46
+msgid "Stream does not contain a valid ID3v1TagHandler tag"
+msgstr ""
+
+#: src/mogul/media/id3.py:82
+msgid "Audio encryption"
+msgstr ""
+
+#: src/mogul/media/id3.py:83
+msgid "Attached picture"
+msgstr ""
+
+#: src/mogul/media/id3.py:84
+msgid "Audio seek point index"
+msgstr ""
+
+#: src/mogul/media/id3.py:85
+msgid "Comments"
+msgstr ""
+
+#: src/mogul/media/id3.py:86
+msgid "Commercial frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:87
+msgid "Encryption method registration"
+msgstr ""
+
+#: src/mogul/media/id3.py:88
+msgid "Equalisation (2)"
+msgstr ""
+
+#: src/mogul/media/id3.py:89
+msgid "Event timing codes"
+msgstr ""
+
+#: src/mogul/media/id3.py:90
+msgid "General encapsulated object"
+msgstr ""
+
+#: src/mogul/media/id3.py:91
+msgid "Group identification registration"
+msgstr ""
+
+#: src/mogul/media/id3.py:92
+msgid "Linked information"
+msgstr ""
+
+#: src/mogul/media/id3.py:93
+msgid "Music CD identifier"
+msgstr ""
+
+#: src/mogul/media/id3.py:94
+msgid "MPEG location lookup table"
+msgstr ""
+
+#: src/mogul/media/id3.py:95
+msgid "Ownership frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:96
+msgid "Private frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:97
+msgid "Play counter"
+msgstr ""
+
+#: src/mogul/media/id3.py:98
+msgid "Popularimeter"
+msgstr ""
+
+#: src/mogul/media/id3.py:99
+msgid "Position synchronisation frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:100
+msgid "Recommended buffer size"
+msgstr ""
+
+#: src/mogul/media/id3.py:101
+msgid "Relative volume adjustment (2)"
+msgstr ""
+
+#: src/mogul/media/id3.py:102
+msgid "Reverb"
+msgstr ""
+
+#: src/mogul/media/id3.py:103
+msgid "Seek frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:104
+msgid "Signature frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:105
+msgid "Synchronised lyric/text"
+msgstr ""
+
+#: src/mogul/media/id3.py:106
+msgid "Synchronised tempo codes"
+msgstr ""
+
+#: src/mogul/media/id3.py:107
+msgid "Album/Movie/Show title"
+msgstr ""
+
+#: src/mogul/media/id3.py:108
+msgid "BPM (beats per minute)"
+msgstr ""
+
+#: src/mogul/media/id3.py:110
+msgid "Content type"
+msgstr ""
+
+#: src/mogul/media/id3.py:111
+msgid "Copyright message"
+msgstr ""
+
+#: src/mogul/media/id3.py:112
+msgid "Encoding time"
+msgstr ""
+
+#: src/mogul/media/id3.py:113
+msgid "Playlist delay"
+msgstr ""
+
+#: src/mogul/media/id3.py:114
+msgid "Original release time"
+msgstr ""
+
+#: src/mogul/media/id3.py:115
+msgid "Recording time"
+msgstr ""
+
+#: src/mogul/media/id3.py:116
+msgid "Release time"
+msgstr ""
+
+#: src/mogul/media/id3.py:117
+msgid "Tagging time"
+msgstr ""
+
+#: src/mogul/media/id3.py:118
+msgid "Encoded by"
+msgstr ""
+
+#: src/mogul/media/id3.py:119
+msgid "Lyricist/Text writer"
+msgstr ""
+
+#: src/mogul/media/id3.py:120 src/mogul/media/mp4.py:114
+msgid "File type"
+msgstr ""
+
+#: src/mogul/media/id3.py:121
+msgid "Involved people list"
+msgstr ""
+
+#: src/mogul/media/id3.py:122
+msgid "Content group description"
+msgstr ""
+
+#: src/mogul/media/id3.py:123
+msgid "Title/songname/content description"
+msgstr ""
+
+#: src/mogul/media/id3.py:124
+msgid "Subtitle/Description refinement"
+msgstr ""
+
+#: src/mogul/media/id3.py:125
+msgid "Initial key"
+msgstr ""
+
+#: src/mogul/media/id3.py:126
+msgid "Language(s)"
+msgstr ""
+
+#: src/mogul/media/id3.py:127
+msgid "Length"
+msgstr ""
+
+#: src/mogul/media/id3.py:128
+msgid "Musician credits list"
+msgstr ""
+
+#: src/mogul/media/id3.py:129
+msgid "Media type"
+msgstr ""
+
+#: src/mogul/media/id3.py:130
+msgid "Mood"
+msgstr ""
+
+#: src/mogul/media/id3.py:131
+msgid "Original album/movie/show title"
+msgstr ""
+
+#: src/mogul/media/id3.py:132
+msgid "Original filename"
+msgstr ""
+
+#: src/mogul/media/id3.py:133
+msgid "Original lyricist(s)/text writer(s)"
+msgstr ""
+
+#: src/mogul/media/id3.py:134
+msgid "Original artist(s)/performer(s)"
+msgstr ""
+
+#: src/mogul/media/id3.py:135
+msgid "File owner/licensee"
+msgstr ""
+
+#: src/mogul/media/id3.py:136
+msgid "Lead performer(s)/Soloist(s)"
+msgstr ""
+
+#: src/mogul/media/id3.py:137
+msgid "Band/orchestra/accompaniment"
+msgstr ""
+
+#: src/mogul/media/id3.py:138
+msgid "Conductor/performer refinement"
+msgstr ""
+
+#: src/mogul/media/id3.py:139
+msgid "Interpreted, remixed, or otherwise modified by"
+msgstr ""
+
+#: src/mogul/media/id3.py:140
+msgid "Part of a set"
+msgstr ""
+
+#: src/mogul/media/id3.py:141
+msgid "Produced notice"
+msgstr ""
+
+#: src/mogul/media/id3.py:142
+msgid "Publisher"
+msgstr ""
+
+#: src/mogul/media/id3.py:143
+msgid "Track number/Position in set"
+msgstr ""
+
+#: src/mogul/media/id3.py:144
+msgid "Internet radio station name"
+msgstr ""
+
+#: src/mogul/media/id3.py:145
+msgid "Internet radio station owner"
+msgstr ""
+
+#: src/mogul/media/id3.py:146
+msgid "Album sort order"
+msgstr ""
+
+#: src/mogul/media/id3.py:147
+msgid "Performer sort order"
+msgstr ""
+
+#: src/mogul/media/id3.py:148
+msgid "Title sort order"
+msgstr ""
+
+#: src/mogul/media/id3.py:149
+msgid "ISRC (international standard recording code)"
+msgstr ""
+
+#: src/mogul/media/id3.py:150
+msgid "Software/Hardware and settings used for encoding"
+msgstr ""
+
+#: src/mogul/media/id3.py:151
+msgid "Set subtitle"
+msgstr ""
+
+#: src/mogul/media/id3.py:152
+msgid "User defined text information frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:153
+msgid "Year of recording"
+msgstr ""
+
+#: src/mogul/media/id3.py:154
+msgid "Unique file identifier"
+msgstr ""
+
+#: src/mogul/media/id3.py:155
+msgid "Terms of use"
+msgstr ""
+
+#: src/mogul/media/id3.py:156
+msgid "Unsynchronised lyric/text transcription"
+msgstr ""
+
+#: src/mogul/media/id3.py:157
+msgid "Commercial information"
+msgstr ""
+
+#: src/mogul/media/id3.py:158
+msgid "Copyright/Legal information"
+msgstr ""
+
+#: src/mogul/media/id3.py:159
+msgid "Official audio file webpage"
+msgstr ""
+
+#: src/mogul/media/id3.py:160
+msgid "Official artist/performer webpage"
+msgstr ""
+
+#: src/mogul/media/id3.py:161
+msgid "Official audio source webpage"
+msgstr ""
+
+#: src/mogul/media/id3.py:162
+msgid "Official Internet radio station homepage"
+msgstr ""
+
+#: src/mogul/media/id3.py:163
+msgid "Payment"
+msgstr ""
+
+#: src/mogul/media/id3.py:164
+msgid "Publishers official webpage"
+msgstr ""
+
+#: src/mogul/media/id3.py:165
+msgid "User defined URL link frame"
+msgstr ""
+
+#: src/mogul/media/id3.py:234
+msgid "Data stream 'ds' does not represent an ID3 tag"
+msgstr ""
+
+#: src/mogul/media/id3.py:363
+msgid "Invalid ID3 sync safe integer"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:25
+msgid "Blues"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:26
+msgid "Classic Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:27 src/mogul/media/mp4.py:108
+msgid "Country"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:28
+msgid "Dance"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:29
+msgid "Disco"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:30
+msgid "Funk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:31
+msgid "Grunge"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:32
+msgid "Hip-Hop"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:33
+msgid "Jazz"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:34
+msgid "Metal"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:35
+msgid "New Age"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:36
+msgid "Oldies"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:38
+msgid "Pop"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:39
+msgid "R&B"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:40
+msgid "Rap"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:41
+msgid "Reggae"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:42
+msgid "Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:43
+msgid "Techno"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:44
+msgid "Industrial"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:45
+msgid "Alternative"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:46
+msgid "Ska"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:47
+msgid "Death Metal"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:48
+msgid "Pranks"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:49
+msgid "Soundtrack"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:50
+msgid "Euro-Techno"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:51
+msgid "Ambient"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:52
+msgid "Trip-Hop"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:53
+msgid "Vocal"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:54
+msgid "Jazz+Funk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:55
+msgid "Fusion"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:56
+msgid "Trance"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:57
+msgid "Classical"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:58
+msgid "Instrumental"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:59
+msgid "Acid"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:60
+msgid "House"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:61
+msgid "Game"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:62
+msgid "Sound Clip"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:63
+msgid "Gospel"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:64 src/mogul/media/tiff.py:215
+msgid "Noise"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:65
+msgid "Alternative Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:66
+msgid "Bass"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:67
+msgid "Soul"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:68
+msgid "Punk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:69
+msgid "Space"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:70
+msgid "Meditative"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:71
+msgid "Instrumental Pop"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:72
+msgid "Instrumental Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:73
+msgid "Ethnic"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:74
+msgid "Gothic"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:75
+msgid "Darkwave"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:76
+msgid "Techno-Industrial"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:77
+msgid "Electronic"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:78
+msgid "Pop-Folk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:79
+msgid "Eurodance"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:80
+msgid "Dream"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:81
+msgid "Southern Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:82
+msgid "Comedy"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:83
+msgid "Cult"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:84
+msgid "Gangsta"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:85
+msgid "Top 40"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:86
+msgid "Christian Rap"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:87
+msgid "Pop/Funk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:88
+msgid "Jungle"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:89
+msgid "Native US"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:90
+msgid "Cabaret"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:91
+msgid "New Wave"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:92
+msgid "Psychadelic"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:93
+msgid "Rave"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:94
+msgid "Showtunes"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:95
+msgid "Trailer"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:96
+msgid "Lo-Fi"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:97
+msgid "Tribal"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:98
+msgid "Acid Punk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:99
+msgid "Acid Jazz"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:100
+msgid "Polka"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:101
+msgid "Retro"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:102
+msgid "Musical"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:103
+msgid "Rock & Roll"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:104
+msgid "Hard Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:105
+msgid "Folk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:106
+msgid "Folk-Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:107
+msgid "National Folk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:108
+msgid "Swing"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:109
+msgid "Fast Fusion"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:110
+msgid "Bebob"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:111
+msgid "Latin"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:112
+msgid "Revival"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:113
+msgid "Celtic"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:114
+msgid "Bluegrass"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:115
+msgid "Avantgarde"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:116
+msgid "Gothic Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:117
+msgid "Progressive Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:118
+msgid "Psychedelic Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:119
+msgid "Symphonic Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:120
+msgid "Slow Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:121
+msgid "Big Band"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:122
+msgid "Chorus"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:123
+msgid "Easy Listening"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:124
+msgid "Acoustic"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:125
+msgid "Humour"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:126
+msgid "Speech"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:127
+msgid "Chanson"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:128
+msgid "Opera"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:129
+msgid "Chamber Music"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:130
+msgid "Sonata"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:131
+msgid "Symphony"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:132
+msgid "Booty Bass"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:133
+msgid "Primus"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:134
+msgid "Porn Groove"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:135
+msgid "Satire"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:136
+msgid "Slow Jam"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:137
+msgid "Club"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:138
+msgid "Tango"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:139
+msgid "Samba"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:140
+msgid "Folklore"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:141
+msgid "Ballad"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:142
+msgid "Power Ballad"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:143
+msgid "Rhythmic Soul"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:144
+msgid "Freestyle"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:145
+msgid "Duet"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:146
+msgid "Punk Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:147
+msgid "Drum Solo"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:148
+msgid "Acapella"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:149
+msgid "Euro-House"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:150
+msgid "Dance Hall"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:151
+msgid "Goa"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:152
+msgid "Drum & Bass"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:153
+msgid "Club: 'House"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:154
+msgid "Hardcore"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:155
+msgid "Terror"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:156
+msgid "Indie"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:157
+msgid "BritPop"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:158
+msgid "Negerpunk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:159
+msgid "Polsk Punk"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:160
+msgid "Beat"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:161
+msgid "Christian Gangsta Rap"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:162
+msgid "Heavy Metal"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:163
+msgid "Black Metal"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:164
+msgid "Crossover"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:165
+msgid "Contemporary Christian"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:166
+msgid "Christian Rock"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:167
+msgid "Merengue"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:168
+msgid "Salsa"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:169
+msgid "Thrash Metal"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:170
+msgid "Anime"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:171
+msgid "JPop"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:172
+msgid "Synthpop"
+msgstr ""
+
+#: src/mogul/media/id3_info.py:177
+msgid "32x32 pixels file icon (PNG only)"
+msgstr ""
+
+#: src/mogul/media/iptc.py:27
+msgid "Name of the city"
+msgstr ""
+
+#: src/mogul/media/iptc.py:31
+msgid "Name of the country"
+msgstr ""
+
+#: src/mogul/media/iptc.py:35
+msgid "ISO 3166 Country Code"
+msgstr ""
+
+#: src/mogul/media/iptc.py:39
+msgid "ï¿¼A textual description, including captions, of the image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:43
+msgid "ï¿¼A brief synopsis of the caption."
+msgstr ""
+
+#: src/mogul/media/iptc.py:47
+msgid ""
+"ï¿¼Describes the nature, intellectual, artistic or journalistic "
+"characteristic of a item, not specifically its content."
+msgstr ""
+
+#: src/mogul/media/iptc.py:51
+msgid "ï¿¼Keywords to express the subject of the content"
+msgstr ""
+
+#: src/mogul/media/iptc.py:55
+msgid "ï¿¼Name of the subregion of a country"
+msgstr ""
+
+#: src/mogul/media/iptc.py:59
+msgid "ï¿¼Describes the scene of a news content"
+msgstr ""
+
+#: src/mogul/media/iptc.py:63
+msgid ""
+"ï¿¼Specifies one or more Subjects from the IPTC Subject-NewsCodes "
+"taxonomy to categorise the content"
+msgstr ""
+
+#: src/mogul/media/iptc.py:67
+msgid "Name of a sublocation the content is focussing on"
+msgstr ""
+
+#: src/mogul/media/iptc.py:71
+msgid ""
+"Designates the date and optionally the time the intellectual content was "
+"created rather than the date of the creation of the physical "
+"representation."
+msgstr ""
+
+#: src/mogul/media/iptc.py:75
+msgid ""
+"ï¿¼Identifier or the name of the person involved in writing, editing or "
+"correcting the description of the content."
+msgstr ""
+
+#: src/mogul/media/iptc.py:79
+msgid ""
+"Any of a number of instructions from the provider or creator to the "
+"receiver of the item."
+msgstr ""
+
+#: src/mogul/media/iptc.py:83
+msgid "Number or identifier for the purpose of improved workflow handling."
+msgstr ""
+
+#: src/mogul/media/iptc.py:87
+msgid ""
+"A shorthand reference for the item. Title provides a short human readable"
+" name which can be a text and/or numeric reference. It is not the same as"
+" Headline."
+msgstr ""
+
+#: src/mogul/media/iptc.py:91
+msgid ""
+"Contains any necessary copyright notice for claiming the intellectual "
+"property for this item and should identify the current owner of the "
+"copyright for the item. Other entities like the creator of the item may "
+"be added in the corresponding field. Notes on usage rights should be "
+"provided in \"Rights usage terms\"."
+msgstr ""
+
+#: src/mogul/media/iptc.py:95
+msgid ""
+"Contains the name of the person who created the content of this item, a "
+"photographer for photos, a graphic artist for graphics, or a writer for "
+"textual news, but in cases where the photographer should not be "
+"identified the name of a company or organisation may be appropriate."
+msgstr ""
+
+#: src/mogul/media/iptc.py:99
+msgid ""
+"The creator's contact information provides all necessary information to "
+"get in contact with the creator of this item and comprises a set of sub-"
+"properties for proper addressing."
+msgstr ""
+
+#: src/mogul/media/iptc.py:103
+msgid ""
+"Contains the job title of the person who created the content of this "
+"item. As this is sort of a qualifier the Creator element has to be filled"
+" in as mandatory prerequisite for using Creator's Jobtitle."
+msgstr ""
+
+#: src/mogul/media/iptc.py:107
+msgid ""
+"The credit to person(s) and/or organisation(s) required by the supplier "
+"of the item to be used when published."
+msgstr ""
+
+#: src/mogul/media/iptc.py:111
+msgid "The licensing parameters of the item expressed in free-text."
+msgstr ""
+
+#: src/mogul/media/iptc.py:115
+msgid ""
+"Identifies the original owner of the copyright for the intellectual "
+"content of the image. This could be an agency, a member of an agency or "
+"an individual. Source could be different from Creator and from the "
+"entities in the CopyrightNotice."
+msgstr ""
+
+#: src/mogul/media/iptc.py:119
+msgid ""
+"A generic structure providing a basic set of information to get in "
+"contact with a person or organisation. It includes an Address, a City, a "
+"Country, Email address, Phone number, a Postal Code, a State or Province "
+"and Web URL."
+msgstr ""
+
+#: src/mogul/media/iptc.py:123
+msgid ""
+"The contact information address part. Comprises an optional company name "
+"and all required information to locate the building or postbox to which "
+"mail should be sent. To that end, the address is a multiline field."
+msgstr ""
+
+#: src/mogul/media/iptc.py:127
+msgid "The contact information city part."
+msgstr ""
+
+#: src/mogul/media/iptc.py:131
+msgid "The contact information country part."
+msgstr ""
+
+#: src/mogul/media/iptc.py:135
+msgid "The contact information email address part."
+msgstr ""
+
+#: src/mogul/media/iptc.py:139
+msgid "The contact information phone number part."
+msgstr ""
+
+#: src/mogul/media/iptc.py:143
+msgid "The contact information part denoting the local postal code."
+msgstr ""
+
+#: src/mogul/media/iptc.py:147
+msgid ""
+"The contact information part denoting regional information such as state "
+"or province."
+msgstr ""
+
+#: src/mogul/media/iptc.py:151
+msgid ""
+"The contact information web address part. Multiple addresses can be "
+"given, separated by a comma."
+msgstr ""
+
+#: src/mogul/media/iptc.py:155
+msgid ""
+"Information about the ethnicity and other facets of the model(s) in a "
+"model-released image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:159
+msgid "A set of metadata about artwork or an object in the image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:163
+msgid ""
+"Code from a controlled vocabulary for identifying the organisation or "
+"company which is featured in the content."
+msgstr ""
+
+#: src/mogul/media/iptc.py:167
+msgid ""
+"A term to describe the content of the image by a value from a Controlled "
+"Vocabulary."
+msgstr ""
+
+#: src/mogul/media/iptc.py:171
+msgid ""
+"A location the content of the item is about. For photos that is a "
+"location shown in the image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:175
+msgid ""
+"Age of the human model(s) at the time this image was taken in a model "
+"released image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:179
+msgid "Name of the organisation or company which is featured in the content."
+msgstr ""
+
+#: src/mogul/media/iptc.py:183
+msgid ""
+"Name of a person the content of the item is about. For photos that is a "
+"person shown in the image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:187
+msgid ""
+"Globally unique identifier for the item. It is created and applied by the"
+" creator of the item at the time of its creation . This value shall not "
+"be changed after that time."
+msgstr ""
+
+#: src/mogul/media/iptc.py:191
+msgid "Names or describes the specific event the content relates to."
+msgstr ""
+
+#: src/mogul/media/iptc.py:195
+msgid ""
+"Both a Registry Item Id and a Registry Organisation Id to record any "
+"registration of this item with a registry."
+msgstr ""
+
+#: src/mogul/media/iptc.py:199
+msgid ""
+"Identifies the most recent supplier of the item, who is not necessarily "
+"its owner or creator."
+msgstr ""
+
+#: src/mogul/media/iptc.py:203
+msgid "Optional identifier assigned by the Image Supplier to the image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:207
+msgid "The date and optionally time when any of the IPTC edited."
+msgstr ""
+
+#: src/mogul/media/iptc.py:211
+msgid "The location the content of the item was created."
+msgstr ""
+
+#: src/mogul/media/iptc.py:215
+msgid ""
+"The maximum available height in pixels of the original photo from which "
+"this photo has been derived by downsizing."
+msgstr ""
+
+#: src/mogul/media/iptc.py:219
+msgid ""
+"The maximum available width in pixels of the original photo from which "
+"this photo has been derived by downsizing."
+msgstr ""
+
+#: src/mogul/media/iptc.py:223
+msgid ""
+"The version number of the PLUS standards in place at the time of the "
+"transaction."
+msgstr ""
+
+#: src/mogul/media/iptc.py:227
+msgid "Owner or owners of the copyright in the licensed image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:231
+msgid "Creator or creators of the image."
+msgstr ""
+
+#: src/mogul/media/iptc.py:235
+msgid ""
+"A person or company that should be contacted to obtain a licence for "
+"using the item or who has licensed the item."
+msgstr ""
+
+#: src/mogul/media/iptc.py:239
+msgid ""
+"Age of the youngest model pictured in the image, at the time that the "
+"image was made."
+msgstr ""
+
+#: src/mogul/media/iptc.py:243
+msgid "Optional identifier associated with each Model Release."
+msgstr ""
+
+#: src/mogul/media/iptc.py:247
+msgid ""
+"Summarizes the availability and scope of model releases authorizing usage"
+" of the likenesses of persons appearing in the photograph."
+msgstr ""
+
+#: src/mogul/media/iptc.py:251
+msgid "Optional identifier associated with each Property Release."
+msgstr ""
+
+#: src/mogul/media/iptc.py:255
+msgid ""
+"Summarises the availability and scope of property releases authorizing "
+"usage of the properties appearing in the photograph."
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:39
+msgid "Model Version"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:40
+msgid "Destination"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:41
+msgid "Coded Character Set"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:42 src/mogul/media/iptc_naa.py:97
+msgid "Record Version"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:43 src/mogul/media/mp4.py:128
+msgid "Name"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:44
+msgid "Edit Status"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:45
+msgid "Editorial Update"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:46
+msgid "Urgency"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:47
+msgid "Subject"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:48
+msgid "Category"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:49
+msgid "Supplemental Category"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:50
+msgid "Fixture Identifier"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:51
+msgid "Keywords"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:52
+msgid "Content Location Code"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:53
+msgid "Content Location Name"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:54
+msgid "Release Date"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:55
+msgid "Release Time"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:56
+msgid "Expiration Date"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:57
+msgid "Expiration Time"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:58
+msgid "Special Instructions"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:59
+msgid "Action Advised"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:60
+msgid "Reference Service"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:61
+msgid "Reference Date"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:62
+msgid "Reference Number"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:63
+msgid "Date Created"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:64
+msgid "Time Created"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:65
+msgid "Digital Creation Date"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:66
+msgid "Digital Creation Time"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:67
+msgid "Originating Program"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:68
+msgid "Program Version"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:69
+msgid "Object Cycle"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:70
+msgid "Byline"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:71
+msgid "Byline Title"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:72
+msgid "City"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:73
+msgid "Sub-location"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:74
+msgid "Province/State"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:75
+msgid "Country/Primary Location Code"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:76
+msgid "Country/Primary Location Name"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:77
+msgid "Original Transmission Reference"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:78
+msgid "Headline"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:79
+msgid "Credit"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:80
+msgid "Source"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:81
+msgid "Copyright Notice"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:82
+msgid "Contact"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:83 src/mogul/media/psd.py:52
+msgid "Caption"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:84
+msgid "Write/Editor"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:85
+msgid "Rasterized Caption"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:86
+msgid "Image Type"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:87
+msgid "Image Orientation"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:88
+msgid "Language Identifier"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:89
+msgid "Audio Type"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:90
+msgid "Audio Sampling Rate"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:91
+msgid "Audio Sampling Resolution"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:92
+msgid "Audio Duration"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:93
+msgid "Audio Outcue"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:94
+msgid "ObjectData Preview File Format"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:95
+msgid "ObjectData Preview File Format Version"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:96
+msgid "ObjectData Preview Data"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:98
+msgid "Picture Number"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:99
+msgid "Pixels Per Line"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:100
+msgid "Number of Lines"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:101
+msgid "Pixel Size In Scanning Direction"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:102
+msgid "Pixel Size Perpendicular To Scanning Direction"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:103
+msgid "Supplement Type"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:104
+msgid "Colour Representation"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:105
+msgid "Interchange Colour Space"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:106
+msgid "Colour Sequence"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:107
+msgid "ICC Input Colour Profile"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:108
+msgid "Colour Calibration Matrix Table"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:109
+msgid "Lookup Table"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:110
+msgid "Number Of Index Entries"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:111
+msgid "Colour Palette"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:112
+msgid "Number Of Bits Per Sample"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:113
+msgid "Sampling Structure"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:114
+msgid "Scanning Direction"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:115
+msgid "Image Rotation"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:116
+msgid "Data Compression Method"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:117
+msgid "Quantisation Method"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:118
+msgid "End Points"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:119
+msgid "Excursion Tolerance"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:120
+msgid "Bits Per Component"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:121
+msgid "Maximum Density Range"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:122
+msgid "Gamma Compensated Value"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:123
+msgid "Size Mode"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:124
+msgid "Max Subfile Size"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:125
+msgid "ObjectData Size"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:126
+msgid "Max ObjectData Size"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:127
+msgid "Subfile"
+msgstr ""
+
+#: src/mogul/media/iptc_naa.py:128
+msgid "Confirmed ObjectData Size"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:50
+msgid "Baseline DCT"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:51 src/mogul/media/jpeg.py:59
+msgid "Extended Sequential DCT"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:52 src/mogul/media/jpeg.py:60
+msgid "Progressive DCT"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:53 src/mogul/media/jpeg.py:61
+msgid "Lossless (Sequential)"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:54
+msgid "Define Huffman Tables"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:55 src/mogul/media/jpeg.py:63
+msgid "Differential Sequential DCT"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:56 src/mogul/media/jpeg.py:64
+msgid "Differential Progressive DCT"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:57 src/mogul/media/jpeg.py:65
+msgid "Differential Lossless (Sequential)"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:58
+msgid "Reserved"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:62
+msgid "Define Arithmetic Coding Conditioning"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:66
+msgid "Start Of Image"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:67
+msgid "End Of Image"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:68
+msgid "Start Of Scan"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:69
+msgid "Define Quantisation Table"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:70
+msgid "Define Number Of Lines"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:71
+msgid "Define Restart Interval"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:72
+msgid "Define Hierarchical Progression"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:73
+msgid "Expand Reference Component"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:74
+msgid "APP0"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:75
+msgid "APP1"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:76
+msgid "APP2"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:77
+msgid "APP3"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:78
+msgid "APP4"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:79
+msgid "APP5"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:80
+msgid "APP6"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:81
+msgid "APP7"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:82
+msgid "APP8"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:83
+msgid "APP9"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:84
+msgid "APP10"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:85
+msgid "APP11"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:86
+msgid "APP12"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:87
+msgid "APP13"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:88
+msgid "APP14"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:89
+msgid "APP15"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:90
+msgid "Comment"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:187
+msgid "No units"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:189
+msgid "Pixels Per Inch"
+msgstr ""
+
+#: src/mogul/media/jpeg.py:191
+msgid "Pixels Per Centimetre"
+msgstr ""
+
+#: src/mogul/media/mp4.py:103
+msgid "Clipping"
+msgstr ""
+
+#: src/mogul/media/mp4.py:104
+msgid "Compressed Movie"
+msgstr ""
+
+#: src/mogul/media/mp4.py:105
+msgid "Clipping Region"
+msgstr ""
+
+#: src/mogul/media/mp4.py:106
+msgid "Composition Shift Least Greatest"
+msgstr ""
+
+#: src/mogul/media/mp4.py:107
+msgid "Colour Table"
+msgstr ""
+
+#: src/mogul/media/mp4.py:109
+msgid "Data Information"
+msgstr ""
+
+#: src/mogul/media/mp4.py:110
+msgid "Data Reference"
+msgstr ""
+
+#: src/mogul/media/mp4.py:111
+msgid "Edit"
+msgstr ""
+
+#: src/mogul/media/mp4.py:112
+msgid "Edit List"
+msgstr ""
+
+#: src/mogul/media/mp4.py:113
+msgid "Free"
+msgstr ""
+
+#: src/mogul/media/mp4.py:115
+msgid "Base Media Information Header"
+msgstr ""
+
+#: src/mogul/media/mp4.py:116
+msgid "Handler"
+msgstr ""
+
+#: src/mogul/media/mp4.py:117
+msgid "Item List"
+msgstr ""
+
+#: src/mogul/media/mp4.py:118
+msgid "Compressed Matte"
+msgstr ""
+
+#: src/mogul/media/mp4.py:119
+msgid "Language"
+msgstr ""
+
+#: src/mogul/media/mp4.py:120
+msgid "Track Matte"
+msgstr ""
+
+#: src/mogul/media/mp4.py:121
+msgid "Media data"
+msgstr ""
+
+#: src/mogul/media/mp4.py:122
+msgid "Media Header"
+msgstr ""
+
+#: src/mogul/media/mp4.py:123
+msgid "Media box"
+msgstr ""
+
+#: src/mogul/media/mp4.py:124
+msgid "Metadata"
+msgstr ""
+
+#: src/mogul/media/mp4.py:125
+msgid "Media Info"
+msgstr ""
+
+#: src/mogul/media/mp4.py:126
+msgid "Movie"
+msgstr ""
+
+#: src/mogul/media/mp4.py:127
+msgid "Movie Header"
+msgstr ""
+
+#: src/mogul/media/mp4.py:129
+msgid "Reference Movie"
+msgstr ""
+
+#: src/mogul/media/mp4.py:130
+msgid "Profile"
+msgstr ""
+
+#: src/mogul/media/mp4.py:131
+msgid "Sample-to-Group"
+msgstr ""
+
+#: src/mogul/media/mp4.py:132
+msgid "Sample Dependency Flags"
+msgstr ""
+
+#: src/mogul/media/mp4.py:133
+msgid "Sample Group Description"
+msgstr ""
+
+#: src/mogul/media/mp4.py:134
+msgid "Skip"
+msgstr ""
+
+#: src/mogul/media/mp4.py:135
+msgid "Sound Media Information Header"
+msgstr ""
+
+#: src/mogul/media/mp4.py:136
+msgid "Sample Table"
+msgstr ""
+
+#: src/mogul/media/mp4.py:137
+msgid "Chunk Offset"
+msgstr ""
+
+#: src/mogul/media/mp4.py:138
+msgid "Partial Sync Sample"
+msgstr ""
+
+#: src/mogul/media/mp4.py:139
+msgid "Sample-to-Chunk"
+msgstr ""
+
+#: src/mogul/media/mp4.py:140
+msgid "Sample Description"
+msgstr ""
+
+#: src/mogul/media/mp4.py:141
+msgid "Sync Sample"
+msgstr ""
+
+#: src/mogul/media/mp4.py:142
+msgid "Sample Size"
+msgstr ""
+
+#: src/mogul/media/mp4.py:143
+msgid "Time To Sample"
+msgstr ""
+
+#: src/mogul/media/mp4.py:144
+msgid "Shadow Sync"
+msgstr ""
+
+#: src/mogul/media/mp4.py:145
+msgid "Track Header"
+msgstr ""
+
+#: src/mogul/media/mp4.py:146
+msgid "Track"
+msgstr ""
+
+#: src/mogul/media/mp4.py:147
+msgid "User Data"
+msgstr ""
+
+#: src/mogul/media/mp4.py:148
+msgid "Video Media Information Header"
+msgstr ""
+
+#: src/mogul/media/mp4.py:149
+msgid "64 Bit Expansion"
+msgstr ""
+
+#: src/mogul/media/mp4.py:150
+msgid "XMP MetaData"
+msgstr ""
+
+#: src/mogul/media/png.py:97
+msgid "Palette"
+msgstr ""
+
+#: src/mogul/media/png.py:98
+msgid "Image Data"
+msgstr ""
+
+#: src/mogul/media/png.py:99
+msgid "End Of File"
+msgstr ""
+
+#: src/mogul/media/png.py:100
+msgid "Transparency"
+msgstr ""
+
+#: src/mogul/media/png.py:101
+msgid "Image Gamma"
+msgstr ""
+
+#: src/mogul/media/png.py:102
+msgid "Primary Chromatacies"
+msgstr ""
+
+#: src/mogul/media/png.py:103
+msgid "Standard RGB Color Space"
+msgstr ""
+
+#: src/mogul/media/png.py:104
+msgid "Embedded ICC Profile"
+msgstr ""
+
+#: src/mogul/media/png.py:105
+msgid "Textual Data"
+msgstr ""
+
+#: src/mogul/media/png.py:106
+msgid "Compressed Textual Data"
+msgstr ""
+
+#: src/mogul/media/png.py:107
+msgid "International Textual Data"
+msgstr ""
+
+#: src/mogul/media/png.py:108
+msgid "Background Color"
+msgstr ""
+
+#: src/mogul/media/png.py:109
+msgid "Physical Dimensions"
+msgstr ""
+
+#: src/mogul/media/png.py:110
+msgid "Significant Bits"
+msgstr ""
+
+#: src/mogul/media/png.py:111
+msgid "Suggested Palette"
+msgstr ""
+
+#: src/mogul/media/png.py:112
+msgid "Palette Histogram"
+msgstr ""
+
+#: src/mogul/media/png.py:113
+msgid "Image Last Modification Time"
+msgstr ""
+
+#: src/mogul/media/psd.py:46 src/mogul/media/psd.py:48
+msgid "Obsolete: Photoshop 2.0 only"
+msgstr ""
+
+#: src/mogul/media/psd.py:47
+msgid "Macintosh print manager print metadata record"
+msgstr ""
+
+#: src/mogul/media/psd.py:49
+msgid "Resolution Info Structure"
+msgstr ""
+
+#: src/mogul/media/psd.py:50
+msgid "Alpha Channel Names"
+msgstr ""
+
+#: src/mogul/media/psd.py:51
+msgid "Obsolete: Display Info Structure"
+msgstr ""
+
+#: src/mogul/media/psd.py:53
+msgid "Border Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:54
+msgid "Background Colour"
+msgstr ""
+
+#: src/mogul/media/psd.py:55
+msgid "Print Flags"
+msgstr ""
+
+#: src/mogul/media/psd.py:56
+msgid "Grayscale And Multichannel Halftoning Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:57
+msgid "Colour Halftoning"
+msgstr ""
+
+#: src/mogul/media/psd.py:58
+msgid "Duotone Halftoning"
+msgstr ""
+
+#: src/mogul/media/psd.py:59
+msgid "Grayscale And Multichannel Transfer Function"
+msgstr ""
+
+#: src/mogul/media/psd.py:60
+msgid "Colour Transfer Functions"
+msgstr ""
+
+#: src/mogul/media/psd.py:61
+msgid "Duotone Transfer Functions"
+msgstr ""
+
+#: src/mogul/media/psd.py:62
+msgid "Duotone Image Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:63
+msgid "Effective Black/White"
+msgstr ""
+
+#: src/mogul/media/psd.py:64 src/mogul/media/psd.py:67
+#: src/mogul/media/psd.py:71
+msgid "Obsolete"
+msgstr ""
+
+#: src/mogul/media/psd.py:65
+msgid "EPS Options"
+msgstr ""
+
+#: src/mogul/media/psd.py:66
+msgid "Quick Mask"
+msgstr ""
+
+#: src/mogul/media/psd.py:68
+msgid "Layer State Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:69
+msgid "Working Path"
+msgstr ""
+
+#: src/mogul/media/psd.py:70
+msgid "Layers Group Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:72
+msgid "IPTC-NAA Record"
+msgstr ""
+
+#: src/mogul/media/psd.py:73
+msgid "Raw Format Image Mode"
+msgstr ""
+
+#: src/mogul/media/psd.py:74
+msgid "JPEG Quality"
+msgstr ""
+
+#: src/mogul/media/psd.py:75
+msgid "Grid And Guides"
+msgstr ""
+
+#: src/mogul/media/psd.py:76 src/mogul/media/psd.py:79
+msgid "Thumbnail Resource"
+msgstr ""
+
+#: src/mogul/media/psd.py:77
+msgid "Copyright Flag"
+msgstr ""
+
+#: src/mogul/media/psd.py:78
+msgid "URL"
+msgstr ""
+
+#: src/mogul/media/psd.py:80
+msgid "Obsolete: Global Angle"
+msgstr ""
+
+#: src/mogul/media/psd.py:81
+msgid "Obsolete: Colour Samplers Resource"
+msgstr ""
+
+#: src/mogul/media/psd.py:82 src/mogul/media/tiff.py:176
+msgid "ICC Profile"
+msgstr ""
+
+#: src/mogul/media/psd.py:83
+msgid "Watermark"
+msgstr ""
+
+#: src/mogul/media/psd.py:84
+msgid "ICC Untagged Profile"
+msgstr ""
+
+#: src/mogul/media/psd.py:85
+msgid "Effects Visible"
+msgstr ""
+
+#: src/mogul/media/psd.py:86
+msgid "Spot Halftone"
+msgstr ""
+
+#: src/mogul/media/psd.py:87
+msgid "Document ID Seed Number"
+msgstr ""
+
+#: src/mogul/media/psd.py:88
+msgid "Unicode Alpha Names"
+msgstr ""
+
+#: src/mogul/media/psd.py:89
+msgid "Indexed Colour Table Count"
+msgstr ""
+
+#: src/mogul/media/psd.py:90
+msgid "Transparency Index"
+msgstr ""
+
+#: src/mogul/media/psd.py:91
+msgid "Global Altitude"
+msgstr ""
+
+#: src/mogul/media/psd.py:93
+msgid "Workflow URL"
+msgstr ""
+
+#: src/mogul/media/psd.py:94
+msgid "Jump To XPEP"
+msgstr ""
+
+#: src/mogul/media/psd.py:95
+msgid "Alpha Identifiers"
+msgstr ""
+
+#: src/mogul/media/psd.py:96
+msgid "URL List"
+msgstr ""
+
+#: src/mogul/media/psd.py:97
+msgid "Version Info"
+msgstr ""
+
+#: src/mogul/media/psd.py:98
+msgid "Exif Data 1"
+msgstr ""
+
+#: src/mogul/media/psd.py:99
+msgid "Exif Data 3"
+msgstr ""
+
+#: src/mogul/media/psd.py:100
+msgid "XMP Metadata"
+msgstr ""
+
+#: src/mogul/media/psd.py:101
+msgid "Caption Digest"
+msgstr ""
+
+#: src/mogul/media/psd.py:102
+msgid "Print Scale"
+msgstr ""
+
+#: src/mogul/media/psd.py:103
+msgid "Pixel Aspect Ratio"
+msgstr ""
+
+#: src/mogul/media/psd.py:104
+msgid "Layer Comps"
+msgstr ""
+
+#: src/mogul/media/psd.py:105
+msgid "Alternate Duotone Colours"
+msgstr ""
+
+#: src/mogul/media/psd.py:106
+msgid "Alternate Spot Colours"
+msgstr ""
+
+#: src/mogul/media/psd.py:107
+msgid "Layer Selection IDs"
+msgstr ""
+
+#: src/mogul/media/psd.py:108
+msgid "HDR Toning Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:109 src/mogul/media/psd.py:118
+msgid "Print Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:110
+msgid "Layer Groups Enabled ID"
+msgstr ""
+
+#: src/mogul/media/psd.py:111
+msgid "Colour Samplers Resource"
+msgstr ""
+
+#: src/mogul/media/psd.py:112
+msgid "Measurement Scale"
+msgstr ""
+
+#: src/mogul/media/psd.py:113
+msgid "Timeline Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:114
+msgid "Sheet Disclosure"
+msgstr ""
+
+#: src/mogul/media/psd.py:115
+msgid "DisplayInfo Structure"
+msgstr ""
+
+#: src/mogul/media/psd.py:116
+msgid "Onion Skins"
+msgstr ""
+
+#: src/mogul/media/psd.py:117
+msgid "Count Information"
+msgstr ""
+
+#: src/mogul/media/psd.py:119
+msgid "Print Style"
+msgstr ""
+
+#: src/mogul/media/psd.py:120
+msgid "Macintosh NSPrintInfo"
+msgstr ""
+
+#: src/mogul/media/psd.py:121
+msgid "Windows DEVMODE"
+msgstr ""
+
+#: src/mogul/media/psd.py:122
+msgid "Name Of Clipping Path"
+msgstr ""
+
+#: src/mogul/media/psd.py:123
+msgid "Image Ready Variables"
+msgstr ""
+
+#: src/mogul/media/psd.py:124
+msgid "Image Ready Data Sets"
+msgstr ""
+
+#: src/mogul/media/psd.py:125
+msgid "Lightroom Workflow"
+msgstr ""
+
+#: src/mogul/media/psd.py:126
+msgid "Print Flags Information"
+msgstr ""
+
+#: src/mogul/media/tiff.py:60
+msgid "New Subfile Type"
+msgstr ""
+
+#: src/mogul/media/tiff.py:61
+msgid "Subfile Type"
+msgstr ""
+
+#: src/mogul/media/tiff.py:62
+msgid "Image Width"
+msgstr ""
+
+#: src/mogul/media/tiff.py:63
+msgid "Image Length"
+msgstr ""
+
+#: src/mogul/media/tiff.py:64
+msgid "Bits Per Sample"
+msgstr ""
+
+#: src/mogul/media/tiff.py:65
+msgid "Compression"
+msgstr ""
+
+#: src/mogul/media/tiff.py:66
+msgid "Photometric Interpretation"
+msgstr ""
+
+#: src/mogul/media/tiff.py:67
+msgid "Thresholding"
+msgstr ""
+
+#: src/mogul/media/tiff.py:68
+msgid "Cell Width"
+msgstr ""
+
+#: src/mogul/media/tiff.py:69
+msgid "Cell Length"
+msgstr ""
+
+#: src/mogul/media/tiff.py:70
+msgid "Fill Order"
+msgstr ""
+
+#: src/mogul/media/tiff.py:71
+msgid "Document Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:72
+msgid "Image Description"
+msgstr ""
+
+#: src/mogul/media/tiff.py:73
+msgid "Make"
+msgstr ""
+
+#: src/mogul/media/tiff.py:74
+msgid "Model"
+msgstr ""
+
+#: src/mogul/media/tiff.py:75
+msgid "Strip Offsets"
+msgstr ""
+
+#: src/mogul/media/tiff.py:76
+msgid "Orientation"
+msgstr ""
+
+#: src/mogul/media/tiff.py:77
+msgid "Samples Per Pixel"
+msgstr ""
+
+#: src/mogul/media/tiff.py:78
+msgid "Rows Per Strip"
+msgstr ""
+
+#: src/mogul/media/tiff.py:79
+msgid "Strip Byte Counts"
+msgstr ""
+
+#: src/mogul/media/tiff.py:80
+msgid "Minimum Sample Value"
+msgstr ""
+
+#: src/mogul/media/tiff.py:81
+msgid "Maximum Sample Value"
+msgstr ""
+
+#: src/mogul/media/tiff.py:82
+msgid "X Resolution"
+msgstr ""
+
+#: src/mogul/media/tiff.py:83
+msgid "Y Resolution"
+msgstr ""
+
+#: src/mogul/media/tiff.py:84
+msgid "Planar Configuration"
+msgstr ""
+
+#: src/mogul/media/tiff.py:85
+msgid "Page Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:86
+msgid "X Position"
+msgstr ""
+
+#: src/mogul/media/tiff.py:87
+msgid "Y Position"
+msgstr ""
+
+#: src/mogul/media/tiff.py:88
+msgid "Free Offsets"
+msgstr ""
+
+#: src/mogul/media/tiff.py:89
+msgid "Free Bytes Count"
+msgstr ""
+
+#: src/mogul/media/tiff.py:90
+msgid "Gray Response Unit"
+msgstr ""
+
+#: src/mogul/media/tiff.py:91
+msgid "Gray Response Curve"
+msgstr ""
+
+#: src/mogul/media/tiff.py:92
+msgid "T4 Options"
+msgstr ""
+
+#: src/mogul/media/tiff.py:93
+msgid "T6 Options"
+msgstr ""
+
+#: src/mogul/media/tiff.py:94
+msgid "Resolution Unit"
+msgstr ""
+
+#: src/mogul/media/tiff.py:95
+msgid "Page Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:96
+msgid "Transfer Function"
+msgstr ""
+
+#: src/mogul/media/tiff.py:97
+msgid "Software"
+msgstr ""
+
+#: src/mogul/media/tiff.py:98
+msgid "Date/Time"
+msgstr ""
+
+#: src/mogul/media/tiff.py:99
+msgid "Artist"
+msgstr ""
+
+#: src/mogul/media/tiff.py:100
+msgid "Host Computer"
+msgstr ""
+
+#: src/mogul/media/tiff.py:101
+msgid "Predictor"
+msgstr ""
+
+#: src/mogul/media/tiff.py:102
+msgid "White Point"
+msgstr ""
+
+#: src/mogul/media/tiff.py:103
+msgid "Primary Chromatics"
+msgstr ""
+
+#: src/mogul/media/tiff.py:104
+msgid "Colour Map"
+msgstr ""
+
+#: src/mogul/media/tiff.py:105
+msgid "Halftone Units"
+msgstr ""
+
+#: src/mogul/media/tiff.py:106
+msgid "Tile Width"
+msgstr ""
+
+#: src/mogul/media/tiff.py:107
+msgid "Tile Length"
+msgstr ""
+
+#: src/mogul/media/tiff.py:108
+msgid "Tile Offsets"
+msgstr ""
+
+#: src/mogul/media/tiff.py:109
+msgid "Tile Byte Counts"
+msgstr ""
+
+#: src/mogul/media/tiff.py:110
+msgid "Sub IFDs"
+msgstr ""
+
+#: src/mogul/media/tiff.py:111
+msgid "Ink Sets"
+msgstr ""
+
+#: src/mogul/media/tiff.py:112
+msgid "Ink Names"
+msgstr ""
+
+#: src/mogul/media/tiff.py:113
+msgid "Number Of Inks"
+msgstr ""
+
+#: src/mogul/media/tiff.py:114
+msgid "Dot Range"
+msgstr ""
+
+#: src/mogul/media/tiff.py:115
+msgid "Target Printer"
+msgstr ""
+
+#: src/mogul/media/tiff.py:116
+msgid "Extra Samples"
+msgstr ""
+
+#: src/mogul/media/tiff.py:117
+msgid "Sample Format"
+msgstr ""
+
+#: src/mogul/media/tiff.py:118
+msgid "S Min Sample Value"
+msgstr ""
+
+#: src/mogul/media/tiff.py:119
+msgid "S Max Sample Value"
+msgstr ""
+
+#: src/mogul/media/tiff.py:120
+msgid "Transfer Range"
+msgstr ""
+
+#: src/mogul/media/tiff.py:121
+msgid "Clip Path"
+msgstr ""
+
+#: src/mogul/media/tiff.py:122
+msgid "X Clip Path Units"
+msgstr ""
+
+#: src/mogul/media/tiff.py:123
+msgid "Y Clip Path Units"
+msgstr ""
+
+#: src/mogul/media/tiff.py:124
+msgid "Indexed"
+msgstr ""
+
+#: src/mogul/media/tiff.py:125
+msgid "JPEG Quantization or Huffman Tables"
+msgstr ""
+
+#: src/mogul/media/tiff.py:126
+msgid "OPI"
+msgstr ""
+
+#: src/mogul/media/tiff.py:127
+msgid "Global Parameters IFD"
+msgstr ""
+
+#: src/mogul/media/tiff.py:128
+msgid "Profile Type"
+msgstr ""
+
+#: src/mogul/media/tiff.py:129
+msgid "Fax Profile"
+msgstr ""
+
+#: src/mogul/media/tiff.py:130
+msgid "Coding Methods"
+msgstr ""
+
+#: src/mogul/media/tiff.py:131
+msgid "Version Year"
+msgstr ""
+
+#: src/mogul/media/tiff.py:132
+msgid "Mode Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:133
+msgid "Decode"
+msgstr ""
+
+#: src/mogul/media/tiff.py:134
+msgid "Default Image Color"
+msgstr ""
+
+#: src/mogul/media/tiff.py:135
+msgid "JPEG Processor"
+msgstr ""
+
+#: src/mogul/media/tiff.py:136
+msgid "JPEG Interchange Format"
+msgstr ""
+
+#: src/mogul/media/tiff.py:137
+msgid "JPEG Interchange Format Length"
+msgstr ""
+
+#: src/mogul/media/tiff.py:138
+msgid "JPEG Restart Interval"
+msgstr ""
+
+#: src/mogul/media/tiff.py:139
+msgid "JPEG Lossless Predictors"
+msgstr ""
+
+#: src/mogul/media/tiff.py:140
+msgid "JPEG Point Transforms"
+msgstr ""
+
+#: src/mogul/media/tiff.py:141
+msgid "JPEG Q Tables"
+msgstr ""
+
+#: src/mogul/media/tiff.py:142
+msgid "JPEG DC Tables"
+msgstr ""
+
+#: src/mogul/media/tiff.py:143
+msgid "JPEG AC Tables"
+msgstr ""
+
+#: src/mogul/media/tiff.py:144
+msgid "YCbCr Coefficients"
+msgstr ""
+
+#: src/mogul/media/tiff.py:145
+msgid "YCbCr Sub-Sampling"
+msgstr ""
+
+#: src/mogul/media/tiff.py:146
+msgid "YCbCr Positioning"
+msgstr ""
+
+#: src/mogul/media/tiff.py:147
+msgid "Reference Black/White"
+msgstr ""
+
+#: src/mogul/media/tiff.py:148
+msgid "Strip Row Counts"
+msgstr ""
+
+#: src/mogul/media/tiff.py:149
+msgid "XMP"
+msgstr ""
+
+#: src/mogul/media/tiff.py:151
+msgid "OPI Related"
+msgstr ""
+
+#: src/mogul/media/tiff.py:152
+msgid "Wang Annotation"
+msgstr ""
+
+#: src/mogul/media/tiff.py:153
+msgid "CFA Repeat Pattern Dim"
+msgstr ""
+
+#: src/mogul/media/tiff.py:154 src/mogul/media/tiff.py:261
+msgid "CFA Pattern"
+msgstr ""
+
+#: src/mogul/media/tiff.py:155
+msgid "Battery Level"
+msgstr ""
+
+#: src/mogul/media/tiff.py:156
+msgid "Copyright"
+msgstr ""
+
+#: src/mogul/media/tiff.py:157
+msgid "Exposure Time"
+msgstr ""
+
+#: src/mogul/media/tiff.py:158
+msgid "F Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:159
+msgid "MD File Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:160
+msgid "MD Scale Pixel"
+msgstr ""
+
+#: src/mogul/media/tiff.py:161
+msgid "MD Colour Table"
+msgstr ""
+
+#: src/mogul/media/tiff.py:162
+msgid "MD Lab Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:163
+msgid "MD Sample Info"
+msgstr ""
+
+#: src/mogul/media/tiff.py:164
+msgid "MD Preparation Date"
+msgstr ""
+
+#: src/mogul/media/tiff.py:165
+msgid "MD Preparation Time"
+msgstr ""
+
+#: src/mogul/media/tiff.py:166
+msgid "MD File Units"
+msgstr ""
+
+#: src/mogul/media/tiff.py:167
+msgid "Model Pixel Scale Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:168
+msgid "IPTC"
+msgstr ""
+
+#: src/mogul/media/tiff.py:169
+msgid "INGR Packet Data Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:170
+msgid "INGR Flag Registers"
+msgstr ""
+
+#: src/mogul/media/tiff.py:171
+msgid "IrasB Transformation Matrix"
+msgstr ""
+
+#: src/mogul/media/tiff.py:172
+msgid "Model Tiepoint Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:173
+msgid "Model Transformation Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:174
+msgid "Photoshop"
+msgstr ""
+
+#: src/mogul/media/tiff.py:175
+msgid "Exif IFD Offset"
+msgstr ""
+
+#: src/mogul/media/tiff.py:177
+msgid "Image Layer"
+msgstr ""
+
+#: src/mogul/media/tiff.py:178
+msgid "Geo Key Directory Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:179
+msgid "Geo Double Params Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:180
+msgid "Geo Ascii Params Tag"
+msgstr ""
+
+#: src/mogul/media/tiff.py:181
+msgid "Exposure Program"
+msgstr ""
+
+#: src/mogul/media/tiff.py:182
+msgid "Spectral Sensitivity"
+msgstr ""
+
+#: src/mogul/media/tiff.py:183
+msgid "GPS"
+msgstr ""
+
+#: src/mogul/media/tiff.py:184
+msgid "ISO Speed Ratings"
+msgstr ""
+
+#: src/mogul/media/tiff.py:185
+msgid "OECF"
+msgstr ""
+
+#: src/mogul/media/tiff.py:186
+msgid "Interlace"
+msgstr ""
+
+#: src/mogul/media/tiff.py:187
+msgid "Time Zone Offset"
+msgstr ""
+
+#: src/mogul/media/tiff.py:188
+msgid "Self Timer Mode"
+msgstr ""
+
+#: src/mogul/media/tiff.py:189
+msgid "Sensitivity Type"
+msgstr ""
+
+#: src/mogul/media/tiff.py:190
+msgid "Standard Output Sensitivity"
+msgstr ""
+
+#: src/mogul/media/tiff.py:191
+msgid "Recommended Exposure Index"
+msgstr ""
+
+#: src/mogul/media/tiff.py:192
+msgid "ISO Speed"
+msgstr ""
+
+#: src/mogul/media/tiff.py:193
+msgid "ISO Speed Latitude yyy"
+msgstr ""
+
+#: src/mogul/media/tiff.py:194
+msgid "ISO Speed Latitude zzz"
+msgstr ""
+
+#: src/mogul/media/tiff.py:195
+msgid "Hylafax Fax Receive Parameters"
+msgstr ""
+
+#: src/mogul/media/tiff.py:196
+msgid "Hylafax Fax Sub Address"
+msgstr ""
+
+#: src/mogul/media/tiff.py:197
+msgid "Hylafax Fax Receive Time"
+msgstr ""
+
+#: src/mogul/media/tiff.py:198
+msgid "Exif Version"
+msgstr ""
+
+#: src/mogul/media/tiff.py:199
+msgid "Date Time Original"
+msgstr ""
+
+#: src/mogul/media/tiff.py:200
+msgid "Date Time Digitized"
+msgstr ""
+
+#: src/mogul/media/tiff.py:201
+msgid "Components Configuration"
+msgstr ""
+
+#: src/mogul/media/tiff.py:202
+msgid "Compressed Bits Per Pixel"
+msgstr ""
+
+#: src/mogul/media/tiff.py:203
+msgid "Shutter Speed"
+msgstr ""
+
+#: src/mogul/media/tiff.py:204
+msgid "Aperture Value"
+msgstr ""
+
+#: src/mogul/media/tiff.py:205
+msgid "Brightness"
+msgstr ""
+
+#: src/mogul/media/tiff.py:206
+msgid "Exposure Bias"
+msgstr ""
+
+#: src/mogul/media/tiff.py:207
+msgid "Max Aperture"
+msgstr ""
+
+#: src/mogul/media/tiff.py:208
+msgid "Subject Distance"
+msgstr ""
+
+#: src/mogul/media/tiff.py:209
+msgid "Metering Mode"
+msgstr ""
+
+#: src/mogul/media/tiff.py:210
+msgid "Light Source"
+msgstr ""
+
+#: src/mogul/media/tiff.py:211
+msgid "Flash"
+msgstr ""
+
+#: src/mogul/media/tiff.py:212
+msgid "Focal Length"
+msgstr ""
+
+#: src/mogul/media/tiff.py:213 src/mogul/media/tiff.py:251
+msgid "Flash Energy"
+msgstr ""
+
+#: src/mogul/media/tiff.py:214 src/mogul/media/tiff.py:252
+msgid "Spatial Frequency Response"
+msgstr ""
+
+#: src/mogul/media/tiff.py:216 src/mogul/media/tiff.py:253
+msgid "Focal Plane X Resolution"
+msgstr ""
+
+#: src/mogul/media/tiff.py:217 src/mogul/media/tiff.py:254
+msgid "Focal Plane Y Resolution"
+msgstr ""
+
+#: src/mogul/media/tiff.py:218 src/mogul/media/tiff.py:255
+msgid "Focal Plane Resolution Unit"
+msgstr ""
+
+#: src/mogul/media/tiff.py:219
+msgid "Image Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:220
+msgid "Security Classification"
+msgstr ""
+
+#: src/mogul/media/tiff.py:221
+msgid "Image History"
+msgstr ""
+
+#: src/mogul/media/tiff.py:222
+msgid "Subject Area"
+msgstr ""
+
+#: src/mogul/media/tiff.py:223 src/mogul/media/tiff.py:257
+msgid "Exposure Index"
+msgstr ""
+
+#: src/mogul/media/tiff.py:224
+msgid "TIFF/EP Standard ID"
+msgstr ""
+
+#: src/mogul/media/tiff.py:225 src/mogul/media/tiff.py:258
+msgid "Sensing Method"
+msgstr ""
+
+#: src/mogul/media/tiff.py:226
+msgid "Maker Note"
+msgstr ""
+
+#: src/mogul/media/tiff.py:227
+msgid "User Comment"
+msgstr ""
+
+#: src/mogul/media/tiff.py:228
+msgid "Sub Second Time"
+msgstr ""
+
+#: src/mogul/media/tiff.py:229
+msgid "Sub Second Time Original"
+msgstr ""
+
+#: src/mogul/media/tiff.py:230
+msgid "Sub Second Time Digitized"
+msgstr ""
+
+#: src/mogul/media/tiff.py:235
+msgid "Page Content"
+msgstr ""
+
+#: src/mogul/media/tiff.py:236
+msgid "OLE Dump"
+msgstr ""
+
+#: src/mogul/media/tiff.py:237
+msgid "Content Position"
+msgstr ""
+
+#: src/mogul/media/tiff.py:239
+msgid "Image Source Data"
+msgstr ""
+
+#: src/mogul/media/tiff.py:240
+msgid "XP Title"
+msgstr ""
+
+#: src/mogul/media/tiff.py:241
+msgid "XP Comment"
+msgstr ""
+
+#: src/mogul/media/tiff.py:242
+msgid "XP Author"
+msgstr ""
+
+#: src/mogul/media/tiff.py:243
+msgid "XP Keywords"
+msgstr ""
+
+#: src/mogul/media/tiff.py:244
+msgid "XP Subject"
+msgstr ""
+
+#: src/mogul/media/tiff.py:245
+msgid "Flashpix Version"
+msgstr ""
+
+#: src/mogul/media/tiff.py:246
+msgid "Color Space"
+msgstr ""
+
+#: src/mogul/media/tiff.py:247
+msgid "Pixel X Dimension"
+msgstr ""
+
+#: src/mogul/media/tiff.py:248
+msgid "Pixel Y Dimension"
+msgstr ""
+
+#: src/mogul/media/tiff.py:249
+msgid "Related Sound File"
+msgstr ""
+
+#: src/mogul/media/tiff.py:250
+msgid "Interoperability"
+msgstr ""
+
+#: src/mogul/media/tiff.py:256
+msgid "Subject Location"
+msgstr ""
+
+#: src/mogul/media/tiff.py:259
+msgid "File Source"
+msgstr ""
+
+#: src/mogul/media/tiff.py:260
+msgid "Scene Type"
+msgstr ""
+
+#: src/mogul/media/tiff.py:262
+msgid "Custom Rendered"
+msgstr ""
+
+#: src/mogul/media/tiff.py:263
+msgid "Exposure Mode"
+msgstr ""
+
+#: src/mogul/media/tiff.py:264
+msgid "White Balance"
+msgstr ""
+
+#: src/mogul/media/tiff.py:265
+msgid "Digital Zoom Ratio"
+msgstr ""
+
+#: src/mogul/media/tiff.py:266
+msgid "Focal Length In 35mm"
+msgstr ""
+
+#: src/mogul/media/tiff.py:267
+msgid "Scene Capture Type"
+msgstr ""
+
+#: src/mogul/media/tiff.py:268
+msgid "Gain Control"
+msgstr ""
+
+#: src/mogul/media/tiff.py:269
+msgid "Contrast"
+msgstr ""
+
+#: src/mogul/media/tiff.py:270
+msgid "Saturation"
+msgstr ""
+
+#: src/mogul/media/tiff.py:271
+msgid "Sharpness"
+msgstr ""
+
+#: src/mogul/media/tiff.py:272
+msgid "Device Setting Description"
+msgstr ""
+
+#: src/mogul/media/tiff.py:273
+msgid "Subject Distance Range"
+msgstr ""
+
+#: src/mogul/media/tiff.py:274
+msgid "Image Unique ID"
+msgstr ""
+
+#: src/mogul/media/tiff.py:275
+msgid "Camera Owner Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:276
+msgid "Body Serial Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:277
+msgid "Lens Specification"
+msgstr ""
+
+#: src/mogul/media/tiff.py:278
+msgid "Lens Make"
+msgstr ""
+
+#: src/mogul/media/tiff.py:279
+msgid "Lens Model"
+msgstr ""
+
+#: src/mogul/media/tiff.py:280
+msgid "Lens Serial Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:281
+msgid "GDAL Metadata"
+msgstr ""
+
+#: src/mogul/media/tiff.py:282
+msgid "GDAL No Data"
+msgstr ""
+
+#: src/mogul/media/tiff.py:283
+msgid "Oce Scanjob Description"
+msgstr ""
+
+#: src/mogul/media/tiff.py:284
+msgid "Oce Application Selector"
+msgstr ""
+
+#: src/mogul/media/tiff.py:285
+msgid "Oce Identification Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:286
+msgid "Oce Imagelogic Characteristics"
+msgstr ""
+
+#: src/mogul/media/tiff.py:287
+msgid "DNG Version"
+msgstr ""
+
+#: src/mogul/media/tiff.py:288
+msgid "DNG Backward Version"
+msgstr ""
+
+#: src/mogul/media/tiff.py:289
+msgid "Unique Camera Model"
+msgstr ""
+
+#: src/mogul/media/tiff.py:290
+msgid "Localized Camera Model"
+msgstr ""
+
+#: src/mogul/media/tiff.py:291
+msgid "CFA Plane Color"
+msgstr ""
+
+#: src/mogul/media/tiff.py:292
+msgid "CFA Layout"
+msgstr ""
+
+#: src/mogul/media/tiff.py:293
+msgid "Linearization Table"
+msgstr ""
+
+#: src/mogul/media/tiff.py:294
+msgid "Black Level Repeat Dim"
+msgstr ""
+
+#: src/mogul/media/tiff.py:295
+msgid "Black Level"
+msgstr ""
+
+#: src/mogul/media/tiff.py:296
+msgid "Black Level Delta H"
+msgstr ""
+
+#: src/mogul/media/tiff.py:297
+msgid "Black Level Delta V"
+msgstr ""
+
+#: src/mogul/media/tiff.py:298
+msgid "White Level"
+msgstr ""
+
+#: src/mogul/media/tiff.py:299
+msgid "Default Scale"
+msgstr ""
+
+#: src/mogul/media/tiff.py:300
+msgid "Default Crop Origin"
+msgstr ""
+
+#: src/mogul/media/tiff.py:301
+msgid "Default Crop Size"
+msgstr ""
+
+#: src/mogul/media/tiff.py:302
+msgid "Color Matrix 1"
+msgstr ""
+
+#: src/mogul/media/tiff.py:303
+msgid "Color Matrix 2"
+msgstr ""
+
+#: src/mogul/media/tiff.py:304
+msgid "Camera Calibration 1"
+msgstr ""
+
+#: src/mogul/media/tiff.py:305
+msgid "Camera Calibration 2"
+msgstr ""
+
+#: src/mogul/media/tiff.py:306
+msgid "Reduction Matrix 1"
+msgstr ""
+
+#: src/mogul/media/tiff.py:307
+msgid "Reduction Matrix 2"
+msgstr ""
+
+#: src/mogul/media/tiff.py:308
+msgid "Analog Balance"
+msgstr ""
+
+#: src/mogul/media/tiff.py:309
+msgid "As Shot Neutral"
+msgstr ""
+
+#: src/mogul/media/tiff.py:310
+msgid "As Shot White XY"
+msgstr ""
+
+#: src/mogul/media/tiff.py:311
+msgid "Baseline Exposure"
+msgstr ""
+
+#: src/mogul/media/tiff.py:312
+msgid "Baseline Noise"
+msgstr ""
+
+#: src/mogul/media/tiff.py:313
+msgid "Baseline Sharpness"
+msgstr ""
+
+#: src/mogul/media/tiff.py:314
+msgid "Bayer Green Split"
+msgstr ""
+
+#: src/mogul/media/tiff.py:315
+msgid "Linear Response Limit"
+msgstr ""
+
+#: src/mogul/media/tiff.py:316
+msgid "Camera Serial Number"
+msgstr ""
+
+#: src/mogul/media/tiff.py:317
+msgid "Lens Info"
+msgstr ""
+
+#: src/mogul/media/tiff.py:318
+msgid "Chroma Blur Radius"
+msgstr ""
+
+#: src/mogul/media/tiff.py:319
+msgid "Anti Alias Strength"
+msgstr ""
+
+#: src/mogul/media/tiff.py:320
+msgid "Shadow Scale"
+msgstr ""
+
+#: src/mogul/media/tiff.py:321
+msgid "DNG Private Data"
+msgstr ""
+
+#: src/mogul/media/tiff.py:322
+msgid "Make Note Safety"
+msgstr ""
+
+#: src/mogul/media/tiff.py:323
+msgid "Calibration Illuminant 1"
+msgstr ""
+
+#: src/mogul/media/tiff.py:324
+msgid "Calibration Illuminant 2"
+msgstr ""
+
+#: src/mogul/media/tiff.py:325
+msgid "Best Quality Scale"
+msgstr ""
+
+#: src/mogul/media/tiff.py:326
+msgid "Alias Meta Data"
+msgstr ""
+
+#: src/mogul/media/tiff.py:327
+msgid "Original RAW File Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:328
+msgid "Original RAW File Data"
+msgstr ""
+
+#: src/mogul/media/tiff.py:329
+msgid "Active Area"
+msgstr ""
+
+#: src/mogul/media/tiff.py:330
+msgid "Masked Areas"
+msgstr ""
+
+#: src/mogul/media/tiff.py:331
+msgid "As Shot ICC Profile"
+msgstr ""
+
+#: src/mogul/media/tiff.py:332
+msgid "As Shot Profile Matrix"
+msgstr ""
+
+#: src/mogul/media/tiff.py:333
+msgid "Current ICC Profile"
+msgstr ""
+
+#: src/mogul/media/tiff.py:334
+msgid "Current Pre-Profile Matrix"
+msgstr ""
+
+#: src/mogul/media/tiff.py:335
+msgid "Colorimetric Reference"
+msgstr ""
+
+#: src/mogul/media/tiff.py:336
+msgid "Camera Calibration Signature"
+msgstr ""
+
+#: src/mogul/media/tiff.py:337
+msgid "Profile Calibration Signature"
+msgstr ""
+
+#: src/mogul/media/tiff.py:338
+msgid "As Shot Profile Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:339
+msgid "Noise Reduction Applied"
+msgstr ""
+
+#: src/mogul/media/tiff.py:340
+msgid "Profile Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:341
+msgid "Profile Hue Saturation Mapping Dimensions"
+msgstr ""
+
+#: src/mogul/media/tiff.py:342
+msgid "Profile Hue Saturation Mapping Data 1"
+msgstr ""
+
+#: src/mogul/media/tiff.py:343
+msgid "Profile Hue Saturation Mapping Data 2"
+msgstr ""
+
+#: src/mogul/media/tiff.py:344
+msgid "Profile Tone Curve"
+msgstr ""
+
+#: src/mogul/media/tiff.py:345
+msgid "Profile Embed Policy"
+msgstr ""
+
+#: src/mogul/media/tiff.py:346
+msgid "Profile Copyright"
+msgstr ""
+
+#: src/mogul/media/tiff.py:347
+msgid "Forward Matrix 1"
+msgstr ""
+
+#: src/mogul/media/tiff.py:348
+msgid "Forward Matrix 2"
+msgstr ""
+
+#: src/mogul/media/tiff.py:349
+msgid "Preview Application Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:350
+msgid "Preview Application Version"
+msgstr ""
+
+#: src/mogul/media/tiff.py:351
+msgid "Preview Settings Name"
+msgstr ""
+
+#: src/mogul/media/tiff.py:352
+msgid "Preview Settings Digest"
+msgstr ""
+
+#: src/mogul/media/tiff.py:353
+msgid "Preview Colour Space"
+msgstr ""
+
+#: src/mogul/media/tiff.py:354
+msgid "Preview Date Time"
+msgstr ""
+
+#: src/mogul/media/tiff.py:355
+msgid "Raw Image Digest"
+msgstr ""
+
+#: src/mogul/media/tiff.py:356
+msgid "Original Raw File Digest"
+msgstr ""
+
+#: src/mogul/media/tiff.py:357
+msgid "Sub-Tile Block Size"
+msgstr ""
+
+#: src/mogul/media/tiff.py:358
+msgid "Row Interleave Factor"
+msgstr ""
+
+#: src/mogul/media/tiff.py:359
+msgid "Profile Look Table Dimensions"
+msgstr ""
+
+#: src/mogul/media/tiff.py:360
+msgid "Profile Look Table Data"
+msgstr ""
+
+#: src/mogul/media/tiff.py:361
+msgid "Opcode List 1"
+msgstr ""
+
+#: src/mogul/media/tiff.py:362
+msgid "Opcode List 2"
+msgstr ""
+
+#: src/mogul/media/tiff.py:363
+msgid "Opcode List 3"
+msgstr ""
+
+#: src/mogul/media/tiff.py:364
+msgid "Noise Profile"
+msgstr ""
+
+#: src/mogul/media/tiff.py:368
+msgid "GPS Tag Version"
+msgstr ""
+
+#: src/mogul/media/tiff.py:369
+msgid "North or South Latitude"
+msgstr ""
+
+#: src/mogul/media/tiff.py:370
+msgid "gpslatitude"
+msgstr ""
+
+#: src/mogul/media/tiff.py:371
+msgid "East or West Longitude"
+msgstr ""
+
+#: src/mogul/media/tiff.py:372
+msgid "Longitude"
+msgstr ""
+
+#: src/mogul/media/tiff.py:373
+msgid "Altitude Reference"
+msgstr ""
+
+#: src/mogul/media/tiff.py:374
+msgid "Altitude"
+msgstr ""
+
+#: src/mogul/media/tiff.py:375
+msgid "GPS Time"
+msgstr ""
+
+#: src/mogul/media/tiff.py:376
+msgid "GPS Satellites"
+msgstr ""
+
+#: src/mogul/media/tiff.py:377
+msgid "GPS Receiver Status"
+msgstr ""
+
+#: src/mogul/media/tiff.py:378
+msgid "GPS Measurement Mode"
+msgstr ""
+
+#: src/mogul/media/tiff.py:379
+msgid "Measurement Precision"
+msgstr ""
+
+#: src/mogul/media/tiff.py:380
+msgid "Speed Unit"
+msgstr ""
+
+#: src/mogul/media/tiff.py:381
+msgid "Speed of GPS Receiver"
+msgstr ""
+
+#: src/mogul/media/tiff.py:382
+msgid "Reference for Direction of Movement"
+msgstr ""
+
+#: src/mogul/media/tiff.py:383
+msgid "Direction of Movement"
+msgstr ""
+
+#: src/mogul/media/tiff.py:384
+msgid "Reference for Direction of Image"
+msgstr ""
+
+#: src/mogul/media/tiff.py:385
+msgid "Direction of Image"
+msgstr ""
+
+#: src/mogul/media/tiff.py:386
+msgid "Geodetic Survey Data Used"
+msgstr ""
+
+#: src/mogul/media/tiff.py:387
+msgid "Reference for Latitude of Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:388
+msgid "Latitude of Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:389
+msgid "Reference for Longitude of Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:390
+msgid "Longitude of Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:391
+msgid "Reference for Bearing of Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:392
+msgid "Bearing of Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:393
+msgid "Reference for Distance to Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:394
+msgid "Distance to Destination"
+msgstr ""
+
+#: src/mogul/media/tiff.py:395
+msgid "Name of GPS Processing Method"
+msgstr ""
+
+#: src/mogul/media/tiff.py:396
+msgid "Name of GPS Area"
+msgstr ""
+
+#: src/mogul/media/tiff.py:397
+msgid "GPS Date"
+msgstr ""
+
+#: src/mogul/media/tiff.py:398
+msgid "GPS Differential Correction"
+msgstr ""
+
+#: src/mogul/media/tiff.py:402
+msgid "Interoperability Index"
+msgstr ""
+
